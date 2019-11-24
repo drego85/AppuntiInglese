@@ -40,7 +40,7 @@ Regole nella lettura o scrittura dei numeri:
 
 
 
-### Le ore
+###Le ore
 
 Per leggere le ore in Inglese è necessario osservare in quale quadrante, di un orologio analogico, si trovino le lancette dei minuti:
 
@@ -151,4 +151,56 @@ Note:
 * Per i secoli non si usano i numeri romani ma i numeri ordinali (es. *19th Century*);
 
 
+
+###Pronomi Personali
+
+In inglese, come nelle altre lingue, ci sono due tipologie di pronomi personali:
+
+- **Soggetto**: sono coloro che compiono l’azione;
+- **Complemento**: sono coloro che ricevono l’azione compiuta da un pronome soggetto.
+
+| **Italiano** | **Soggetto** | **Italiano** | **Complemento** |
+| ------------ | ------------ | ------------ | --------------- |
+| Io           | I            | Me/Mi        | Me              |
+| Tu           | You          | Te/Ti        | You             |
+| Egli         | He           | Lui          | Him             |
+| Ella         | She          | Lei          | Her             |
+| Esso/a       | It           |              | It              |
+| Noi          | We           | Noi/Ci       | Us              |
+| Voi          | You          | Voi/Vi       | You             |
+| Essi         | They         | Essi/Loro    | Them            |
+
+Note:
+
+* Il pronome personale complemento segue sempre la preposizione o il verbo da cui dipende. (Es. *I love her*);
+* Il pronome personale complemento può essere usato come complemento oggetto, direttamente dopo il verbo, o come complemento indiretto dopo una preposizione:
+  * Complemento oggetto: *I know her*;
+  * Complemento indiretto: *They are here with us*.
+
+
+
+Esempi:
+
+- She speaks to him; *She (pronome soggetto) - Him (pronome complemento)*
+- You love me; *You (pronome soggetto) - Me (Pronome complemento)*
+- Hi Tom. Nice to see you;
+- How often does your mother tell you to do your homework?;
+- I can see him now; (complemento di un verbo)
+- Tell me what happened; (complemento di termine)
+- I went on vacation with the. (complemento indiretto)
+
+
+
+
+
+
+
+Note extra per successive sezioni:
+
+
+
+```
+Si tenga sempre a mente la tipica struttura della frase inglese:
+Soggetto + Verbo + complemento oggetto + complemento indiretto
+```
 
