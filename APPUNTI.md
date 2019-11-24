@@ -40,7 +40,7 @@ Regole nella lettura o scrittura dei numeri:
 
 
 
-### Le ore e le date
+### Le ore
 
 Per leggere le ore in Inglese è necessario osservare in quale quadrante, di un orologio analogico, si trovino le lancette dei minuti:
 
@@ -77,3 +77,78 @@ Alcune abitudini per indicare un orario:
 Note: 
 
 * In inglese non si usa mai la notazione di 24ore (14, 18, ecc) ma la notazione di 12 ore seguita da AM o PM se dobbiamo indicare la mattina o il pomeriggio.
+
+
+
+###Giorni della Settimana 
+
+| **Italiano** | **Inglese**                  |
+| ------------ | ---------------------------- |
+| Lunedì       | Monday  (si legge mandei)    |
+| Martedì      | Tuesday (si legge tiuSdei)   |
+| Mercoledì    | Wednesday (si legge uenSdei) |
+| Giovedì      | Thursday (si legge THéSdei)  |
+| Venerdì      | Friday (si legge fraidei)    |
+| Sabato       | Saturday (si legge satedei)  |
+| Domenica     | Sunday (si legge sandei)     |
+
+Note:
+
+* I giorni della settimana in Inglese si scrivono sempre con la prima lettera maiuscola (ma è una abitudine oramai abbandonata);
+* Si sfrutta la preposizione *on* per indicare il giorno (es. *On Monday I'm calling a lawyer*);
+* Se si aggiunge una *s* alla fine del giorno si intento "Tutti i..." o "Ogni..."(es. *If functions every night, except Mondays*)
+
+
+
+###Mesi
+
+| **Italiano** | **Inglese**                              | Inglese (forma breve) |
+| ------------ | ---------------------------------------- | --------------------- |
+| Gennaio      | January (si legge gianiuari)             | Jan                   |
+| Febbraio     | February (si pronuncia come in italiano) | Feb                   |
+| Marzo        | March (si legge màc)                     | Mar                   |
+| Aprile       | April (si legge eiprol)                  | Apr                   |
+| Maggio       | May (si legge mei)                       | May                   |
+| Giugno       | June (si legge giùn)                     | Jun                   |
+| Luglio       | July (si legge giulai)                   | Jul                   |
+| Agosto       | August (si legge ógast)                  | Aug                   |
+| Settembre    | September (si legge sepˈtembə)           | Sept                  |
+| Ottobre      | October (si legge oktouba)               | Oct                   |
+| Novembre     | November (si legge nouvemba)             | Nov                   |
+| Dicembre     | December (si legge disemba)              | Dec                   |
+
+Note:
+
+* I mesi in Inglese si scrivono sempre con la prima lettera maiuscola (ma è una abitudine oramai abbandonata);
+* Si sfrutta la preposizione *in* per indicare i mesi (es. *In May it is spring*).
+
+
+
+### Date
+
+Per formulare le date possono essere usati due sistemi:
+
+| Metodo                      | Forma scritta | Forma dettata      |
+| --------------------------- | ------------- | ------------------ |
+| Prima il giorno poi il mese | 2nd June      | The second of June |
+| Prima il mese poi il giorno | June 2nd      | June the second    |
+
+Gli anni non sono mai preceduti dall’articolo e vengono letti a coppie di cifre, ovvero:
+
+| **Anno** | **Si legge** | **Traduzione**          |
+| -------- | ------------ | ----------------------- |
+| 1988     | 19 + 88      | Nineteen + Eighty-Eight |
+| 1900     | 19 + 100     | Nineteen +Hundred       |
+| 2000     | 2000         | Two Thousand            |
+| 2001     | 2000 + 1     | Tho Thousand and One    |
+| 2010     | 20+10        | Twenty + Ten            |
+
+Note:
+
+* Nell'inglese britannico le date si scrivono in numeri nello stesso ordine che in italiano, ovvero giorno/mese/anno (es. *15/05/2002*)
+* Nell'inglese americano le date si scrivono nel formato mese/giorno/anno (es. *05/15/2002*);
+* Dal 2000 al 2009 gli anni si leggono in forma estesa come se dovessi leggere un numero dal 2010 in poi si prende a leggere gli anni separando le due decine come visibile nella tabella superiore;
+* Per i secoli non si usano i numeri romani ma i numeri ordinali (es. *19th Century*);
+
+
+
