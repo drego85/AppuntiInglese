@@ -42,26 +42,38 @@ Regole nella lettura o scrittura dei numeri:
 
 ### Le ore e le date
 
-Per leggere le ore in Inglese è necessario osservare in quale quadrante, di un orologio analogico, si trovino le lancette dei minuti. Se si trovano a destra sfrutteremo PAST se si trovano a sinistra sfrutteremo TO. 
+Per leggere le ore in Inglese è necessario osservare in quale quadrante, di un orologio analogico, si trovino le lancette dei minuti:
+
+* Se le lancette dei minuti è nella prima metà dell'orologio (a destra) dobbiamo indicare il numero dei minuti seguito da *past* e dall'ora in cui ci troviamo;
+* Se le lancette dei minuti è nella seconda metà dell'orologio (a sinistra) dobbiamo indicare il numero di minuti che mancano all'ora successiva a quella in cui ci troviamo, seguito da *to* e dall'ora che deve avvenire.
+
+Schema utile per una veloce comprensione:
 
 ![orologio](./allegati/orologio.jpg)
 
-| **Orario** | **Traduzione**               |
-| ---------- | ---------------------------- |
-| 3:20       | It’s twenty past three       |
-| 3:40       | It’s twenty to four          |
-| 19:30      | It's half past seven p.m.    |
-| 17:45      | It’s a quarter to six p.m.   |
-| 12:30      | It’s half past twelve p.m.   |
-| 22:15      | It's a quarter past ten p.m. |
+Alcuni esempi:
 
-Alcuni abitudini sfruttare per indicare un orario
+| **Orario** | **Traduzione**                                         |
+| ---------- | ------------------------------------------------------ |
+| 3:20       | It’s twenty past three                                 |
+| 3:40       | It’s twenty to four                                    |
+| 19:30      | It's half past seven p.m.                              |
+| 17:45      | It’s a quarter to six p.m. (mancano 15 minuti alle 18) |
+| 12:30      | It’s half past twelve p.m.                             |
+| 22:15      | It's a quarter past ten p.m.                           |
 
-| In punto      | O’ Clock - Sharp  |
+Alcune abitudini per indicare un orario:
+
+| Italiano      | Inglese           |
 | ------------- | ----------------- |
+| In punto      | O’ Clock - Sharp  |
 | Un quarto     | A quarter past/to |
 | E mezza       | Half Past         |
 | Mezzogiorno   | Middady - Noon    |
 | Mezzanotte    | Midnight          |
 | Di pomeriggio | P.M.              |
 | Di mattina    | A.M.              |
+
+Note: 
+
+* In inglese non si usa mai la notazione di 24ore (14, 18, ecc) ma la notazione di 12 ore seguita da AM o PM se dobbiamo indicare la mattina o il pomeriggio.
