@@ -11,12 +11,6 @@ Appunti di Inglese scritti durante il mio percorso di apprendimento di questa li
 
 
 
-
-
-##Indice
-
-
-
 ### Credits
 
 Le fonti da cui ho studiato e da cui derivano questi appunti:
@@ -26,4 +20,5 @@ Le fonti da cui ho studiato e da cui derivano questi appunti:
 * [Bringlese](https://www.briller.me/)
 * [LinguaTrip - LinguaMarina](https://linguatrip.com)
 * [Ad Maiora](https://www.youtube.com/channel/UCT4vsJCBYUNqbTJKDP3I-bg)
+* [Speak English with Vanessa](https://www.speakenglishwithvanessa.com/)
 * [Babbel](https://babbel.com/)
