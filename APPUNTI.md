@@ -35,6 +35,33 @@ Regole nella lettura o scrittura dei numeri:
   * Zero: per i gradi o anche generalmente nella matematica;
   * O (oh): quando si leggono i numeri uno alla volta (es. pronuncia di un numero di telefono);
   * Nil: Per il risultato di un match sportivo (2-0 si legge two nil).
-* In inglese si usa la virgola per separare le migliaia anziché il punto: 2,893 (duemilaottocentonovantatre);
-* In inglese si usa il punto per separare le unità decimali: 0.5.
+* In inglese si usa la virgola per separare le migliaia anziché il punto: *2,893 (duemilaottocentonovantatre)*;
+* In inglese si usa il punto per separare le unità decimali: *0.5*.
 
+
+
+### Le ore e le date
+
+Per leggere le ore in Inglese è necessario osservare in quale quadrante, di un orologio analogico, si trovino le lancette dei minuti. Se si trovano a destra sfrutteremo PAST se si trovano a sinistra sfrutteremo TO. 
+
+![orologio](./allegati/orologio.jpg)
+
+| **Orario** | **Traduzione**               |
+| ---------- | ---------------------------- |
+| 3:20       | It’s twenty past three       |
+| 3:40       | It’s twenty to four          |
+| 19:30      | It's half past seven p.m.    |
+| 17:45      | It’s a quarter to six p.m.   |
+| 12:30      | It’s half past twelve p.m.   |
+| 22:15      | It's a quarter past ten p.m. |
+
+Alcuni abitudini sfruttare per indicare un orario
+
+| In punto      | O’ Clock - Sharp  |
+| ------------- | ----------------- |
+| Un quarto     | A quarter past/to |
+| E mezza       | Half Past         |
+| Mezzogiorno   | Middady - Noon    |
+| Mezzanotte    | Midnight          |
+| Di pomeriggio | P.M.              |
+| Di mattina    | A.M.              |
