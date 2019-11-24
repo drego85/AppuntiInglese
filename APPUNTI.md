@@ -191,13 +191,80 @@ Esempi:
 
 
 
+### Plurale
+
+In Inglese il plurale dei sostantivi si forma, di norma, aggiungendo una “s" al sostantivo. 
+
+| Singolare | Plurale |
+| --------- | ------- |
+| Dog       | Dogs    |
+| Horse     | Horses  |
+| Boy       | Boys    |
+| Friend    | Friends |
+
+Note:
+
+* In inglese gli aggettivi non si rendono mai al plurale a differenza dell'italiano, es:
+  * Due ragazzi allegri - Tho happy boys; (happy non diventa happies)
+  * Quelle sono alcune patate calde - Those are some hot potatoes. (Hot non diventa hots)
+
+**Eccezioni:**
+
+Esistono però delle eccezioni per formarle il plurale
+
+* I sostantivi che terminano in *o, s, ss, sh, ch, x o z* aggiungono *-es*;
+* I sostantivi che terminano in *f* o *fe* trasformano la *f* in *v* e poi aggiungono *-es*;
+* Nei sostantivi che terminano in *y*, se la *y* è preceduta da una consonante trasformando la *y* in *i* e poi aggiunge *-es*;
+* Nei sostantivi che terminano in *y*, se la *y* è preceduta da una vocale rimane la *y* e aggiungo solo la -s.
+
+Esempi:
+
+| **Eccezione**                      | **Singolare**      | **Plurale** |
+| ---------------------------------- | ------------------ | ----------- |
+| Termina in “O”                     | Tomato             | Tomatoes    |
+| Termina in “SS"                    | Kiss               | Kisses      |
+| Termina in “X”                     | Box                | Boxes       |
+| Termina in “FE”                    | Knife (coltello)   | Knives      |
+| Termina in “F"                     | Scarf (sciarpa)    | Scarves     |
+| Termina in “Y” prec. da consonante | Daisy (margherita) | Daisies     |
+| Termina in “Y” prec. da consonante | Cherry (ciliegia)  | Cherries    |
+| Termina in “Y" prec. da vocale     | Key                | Keys        |
+| Termina in “Y" prec. da vocale     | Monkey             | Monkeys     |
+
+**Sostantivi irregolari al plurale**
+
+| **Singolare** | **Plurale**                  |
+| ------------- | ---------------------------- |
+| Woman         | Women                        |
+| Man           | Men                          |
+| Child         | Children                     |
+| Tooth (dente) | Teeth                        |
+| Foot          | Feet                         |
+| Person        | People                       |
+| Mouse         | Mice                         |
+| Goose         | Geese                        |
+| Ox            | Oxen                         |
+| Deer          | Deer (invariato al plurale)  |
+| Fish          | Fish (invariato al plurale)  |
+| Sheep         | Sheep (invariato al plurale) |
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 
 Note extra per successive sezioni:
-
-
 
 ```
 Si tenga sempre a mente la tipica struttura della frase inglese:
