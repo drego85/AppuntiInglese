@@ -191,7 +191,7 @@ Esempi:
 
 
 
-### Plurale
+###Plurale
 
 In Inglese il plurale dei sostantivi si forma, di norma, aggiungendo una “s" al sostantivo. 
 
@@ -250,9 +250,78 @@ Esempi:
 
 
 
+### Articoli
+
+| **Tipo**        | **Inglese** | **Italiano**               |
+| --------------- | ----------- | -------------------------- |
+| Determinativo   | The         | Il, Lo, La, L’, I, Gli, Le |
+| Indeterminativo | A - An      | Un, Un’, Uno, Una          |
 
 
 
+Utilizzo di *A/An*:
+
+* Con sostantivi singolari numerabili;
+* La prima volta che menziono qualcosa o qualcuno ("regola della barzelletta");
+* Quando diciamo cosa è o cosa fa qualcuno;
+* In una esclamazione con *What...* (es. *What a horrible day*);
+* In una espressione di frequenza.
+
+
+Utilizzo di *The*:
+
+* Quando menziono qualcosa o qualcuno in precedenza già menzionato ("regola della barzelletta");
+* Quando è chiaro a cosa ci riferiamo;
+* Quando vi è solo un oggetto di qualcosa/qualcuno;
+* Quando parlo di un posto in una città (es. *Cinema*, *Theatre*);
+* Con i superlativi.
+
+Non utilizzo articoli:
+
+* Con la maggior parte degli stati (Es. *Just over two thirds of people in Germany drink...*);
+* Quando parliamo di persone e cose in generale. Al plurale e con sostantivi non numerabili. (Es. *There were children everywhere at the festival.*);
+* Con alcuni sostantivi (es. *home*, *work*, *school*, *church*) dopo *at*/*to*/*from*;
+* Prima dei pasti, giorni o mesi;
+* Prima di *next/last* seguito da *day*, *week*, etc.
+
+
+
+Note:
+
+* Il *The* cambia la sua pronuncia nel caso in cui si trovi davanti ad una parola che inizia con la vocale oppure con una consonante, esempio:
+  * *The Boy* (La *e* di The sarà pronunciata quasi come una *e* Italiana)
+  * *The Apple* (La *e* di The sarà pronunciata come una *e* Inglese, quindi *i*)
+* L’articolo *A* si usa davanti a parole che iniziano con le consonanti o *h* sonora, esempio:
+  * A hotel;
+  * A boy;
+  * A girl.
+* Vi sono però delle eccezioni per le parole che iniziano con *eu*, *un* o *one* che pur iniziando con una vocale richiedono l’articolo A, esempio:
+  * A european country
+  * A universal problem
+  * A one year old baby
+* L’articolo *An* si usa vanti a parole che iniziano con le vocali o *h* muta, esempio:
+  * An Hour
+  * An Apple
+  * An Elephant
+  
+  
+
+Hanno la *h* muta solamente le seguenti parole:
+
+- Hour (ora)
+- Heir (erede)
+- Honest (onesto)
+- Honour (onore)
+
+
+
+Regola della barzelletta:
+
+La "regola della barzelletta" è utile per ricordarsi l'uso di *a/an* e *the* quando facciamo riferimento a qualcosa o qualcuno in una frase più di una volta. Infatti se pensiamo ad una classica barzelletta: 
+
+C'è un francese un tedesco e un italiano che vanno nel deserto. Il francese dice...dopo l'inglese dice....e infine l'italiano dice...
+
+Vediamo come inizialmente i tre personaggi sono stati introdotti usando l'articolo indeterminativo, successivamente invece il determinativo.
 
 
 
