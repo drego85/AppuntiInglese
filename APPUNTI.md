@@ -40,7 +40,7 @@ Regole nella lettura o scrittura dei numeri:
 
 
 
-###Le ore
+### Le ore
 
 Per leggere le ore in Inglese è necessario osservare in quale quadrante, di un orologio analogico, si trovino le lancette dei minuti:
 
@@ -80,7 +80,7 @@ Note:
 
 
 
-###Giorni della Settimana 
+### Giorni della Settimana 
 
 | **Italiano** | **Inglese**                  |
 | ------------ | ---------------------------- |
@@ -100,7 +100,7 @@ Note:
 
 
 
-###Mesi
+### Mesi
 
 | **Italiano** | **Inglese**                              | Inglese (forma breve) |
 | ------------ | ---------------------------------------- | --------------------- |
@@ -152,7 +152,7 @@ Note:
 
 
 
-###Pronomi Personali
+### Pronomi Personali
 
 In inglese, come nelle altre lingue, ci sono due tipologie di pronomi personali:
 
@@ -191,7 +191,7 @@ Esempi:
 
 
 
-###Plurale
+### Plurale
 
 In Inglese il plurale dei sostantivi si forma, di norma, aggiungendo una “s" al sostantivo. 
 
