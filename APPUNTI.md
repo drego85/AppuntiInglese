@@ -340,7 +340,8 @@ Vediamo come inizialmente i tre personaggi sono stati introdotti usando l'artico
 
 Note:
 
-* In inglese non si mette l’articolo determinativo davanti all’aggettivo possessivo (es. *~~The~~* *my books*)
+* Non si mette l’articolo determinativo davanti all’aggettivo possessivo (Es. *~~The~~* *my books*);
+* Non vi una forma distinta per il singolare e il plurale (Es. *my cat* - *my cats*).
 
 
 
@@ -354,6 +355,44 @@ Gli aggettivi dimostrativi servono ad indicare una persona, un animale o una cos
 | Vicinanza  | Questi - Queste (plurale)        | These   | Here                       |
 | Lontananza | Quel - Quello (singolare)        | That    | There                      |
 | Lontananza | Quegli - Quei - Quelle (plurale) | Those   | There                      |
+
+
+
+### Genitivo Sassone
+
+Il genitivo sassone esprime un legame di appartenenza, quando in italiano useremmo la preposizione *di*, e può riguardare:
+
+| Riguarda             | Italiano            | Inglese        |
+| -------------------- | ------------------- | -------------- |
+| Persone              | La casa di Marta    | Marta's house  |
+| Persone              | La festa del papà   | Father's Day   |
+| Animali              | La coda del gatto   | The cat's tail |
+| Espressioni di Tempo | Il giornale di oggi | Today's paper  |
+| Nazioni o Città      | I parchi di Boston  | Boston's parks |
+
+L'utilizzo del genitivo sassone segue sempre lo stesso schema:
+
+**Possessore + 'S + cosa posseduta**
+
+Note:
+
+* Se il nome proprio termina in *s* è possibile formare il genitivo sassone aggiungendo comunemente un apostrofo *'s* oppure solamente l'apostrofo (Es. *Jhonas's brother* - *Jhonas' brother*);
+* I sostantivi plurali che terminano per *-s* prendono solo l'apostrofo (Es. *The teachers' classes*);
+* Non si usa il genitivo sassone quando ci riferiamo ad un oggetto (Es. *Il tappo della bottiglia:* ~~*Bottle's cap*~~ - *The cap of the bottle*)
+* Quando vi è più di un possessore vi sono due possibili scenari sfrutteremo l'esempio "Le figlie di Mark e Wendy":
+  * Mark e Wendy hanno figlie diverse: *Mark's and Wendy's daughters*;
+  * Mark e Wendy sono i genitori delle stesse figlie: *Mark and Wendy's daughters*.
+
+
+
+### There Is - There Are
+
+Per esprimere la presenza di uno o più oggetti nello spazio si utilizzano le espressioni there is o there are.
+
+| Italiano          | Inglese Forma Affermativa | Inglese Forma Negativa | Inglese Forma Interrogativa |
+| ----------------- | ------------------------- | ---------------------- | --------------------------- |
+| C’è (singolare)   | There is                  | There isn’t            | Is there ?                  |
+| Ci sono (plurale) | There are                 | There aren’t           | Are there ?                 |
 
 
 
