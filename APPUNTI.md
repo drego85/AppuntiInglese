@@ -327,16 +327,16 @@ Vediamo come inizialmente i tre personaggi sono stati introdotti usando l'artico
 
 ### Aggettivi Possessivi
 
-| **Italiano**                 | **Inglese** |
-| ---------------------------- | ----------- |
-| Mio, Mia, Miei, Mie          | My          |
-| Tuo,Tua,Tuoi,Tue             | Your        |
-| Suo,Sua,Suoi,Sue (di Lui)    | His         |
-| Suo,Sua,Suoi,Sue (di Lei)    | Her         |
-| Suo,Sua,Suoi,Sue (di Esso/a) | Its         |
-| Nostro,Nostra,Nostri,Nostre  | Our         |
-| Vostro,Vostra,Vostri,Vostre  | Your        |
-| Loro                         | Their       |
+| Italiano                     | Inglese |
+| ---------------------------- | ------- |
+| Mio, Mia, Miei, Mie          | My      |
+| Tuo,Tua,Tuoi,Tue             | Your    |
+| Suo,Sua,Suoi,Sue (di Lui)    | His     |
+| Suo,Sua,Suoi,Sue (di Lei)    | Her     |
+| Suo,Sua,Suoi,Sue (di Esso/a) | Its     |
+| Nostro,Nostra,Nostri,Nostre  | Our     |
+| Vostro,Vostra,Vostri,Vostre  | Your    |
+| Loro                         | Their   |
 
 Note:
 
@@ -344,7 +344,16 @@ Note:
 
 
 
+### Aggettivi Dimostrativi
 
+Gli aggettivi dimostrativi servono ad indicare una persona, un animale o una cosa lontano o vicino a chi parla. 
+
+| Indica     | Italiano                         | Inglese | Avverbio di Lugo Associato |
+| ---------- | -------------------------------- | ------- | -------------------------- |
+| Vicinanza  | Questo - Questa (singolare)      | This    | Here                       |
+| Vicinanza  | Questi - Queste (plurale)        | These   | Here                       |
+| Lontananza | Quel - Quello (singolare)        | That    | There                      |
+| Lontananza | Quegli - Quei - Quelle (plurale) | Those   | There                      |
 
 
 
