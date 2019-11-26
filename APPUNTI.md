@@ -325,7 +325,22 @@ Vediamo come inizialmente i tre personaggi sono stati introdotti usando l'artico
 
 
 
+### Aggettivi Possessivi
 
+| **Italiano**                 | **Inglese** |
+| ---------------------------- | ----------- |
+| Mio, Mia, Miei, Mie          | My          |
+| Tuo,Tua,Tuoi,Tue             | Your        |
+| Suo,Sua,Suoi,Sue (di Lui)    | His         |
+| Suo,Sua,Suoi,Sue (di Lei)    | Her         |
+| Suo,Sua,Suoi,Sue (di Esso/a) | Its         |
+| Nostro,Nostra,Nostri,Nostre  | Our         |
+| Vostro,Vostra,Vostri,Vostre  | Your        |
+| Loro                         | Their       |
+
+Note:
+
+* In inglese non si mette l’articolo determinativo davanti all’aggettivo possessivo (es. *~~The~~* *my books*)
 
 
 
