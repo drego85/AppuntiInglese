@@ -436,6 +436,30 @@ La tabella seguente chiarisce meglio il concetto:
 
 
 
+### Avverbi di Frequenza
+
+| Avverbio Italiano | Avverbio Inglese                                | Percentuali di possibilità |
+| ----------------- | ----------------------------------------------- | -------------------------- |
+| Mai               | Never                                           | 0%                         |
+| Raramente         | Rarely o Seldom                                 | 5 - 10%                    |
+| Occasionalmente   | Occasionally (La *o* iniziale si pronuncia *a*) | 30%                        |
+| Qualche volta     | Sometimes                                       | 50%                        |
+| Spesso            | Often                                           | 70%                        |
+| Frequentemente    | Frequently                                      | 80%                        |
+| Abitualmente      | Usually                                         | 90%                        |
+| Sempre            | Always                                          | 100%                       |
+
+Note:
+
+* Gli avverbi di frequenza devono essere posizionati nella frase in base alla forma, ovvero:
+  * Forma Affermativa: gli avverbi vanno messi tra soggetto e verbo (Es. *Silva often studies with her sister*);
+  * Forma Interrogativa: gli avverbi vanno messi tra soggetto e verbo (Es. *Does Silvia often study with her sister?*)
+  * Forma Negativa: gli avverbi vanno tra ausiliare e verbo (Es. *Silva doesn’t often study with her sister.*)
+
+
+
+
+
 Note extra per successive sezioni:
 
 ```
