@@ -418,6 +418,24 @@ La tabella seguente chiarisce meglio il concetto:
 
 
 
+### Espressioni di Tempo
+
+
+
+| Italiano                           | Inglese                 |
+| ---------------------------------- | ----------------------- |
+| Al mattino                         | In the morning          |
+| Nel pomeriggio                     | In the afternoon        |
+| Di sera                            | In the evening          |
+| Di notte                           | At night                |
+| Una volta alla settimana/mese/anno | One a week/month/year   |
+| Due volte alla settimana/mese/anno | Twice a week/month/year |
+| Ogni giorno                        | Everyday                |
+| Ogni mese                          | Every month             |
+| Ogni lunedì                        | Every monday            |
+
+
+
 Note extra per successive sezioni:
 
 ```
