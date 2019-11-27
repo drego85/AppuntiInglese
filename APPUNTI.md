@@ -396,6 +396,28 @@ Per esprimere la presenza di uno o più oggetti nello spazio si utilizzano le es
 
 
 
+### Preposizioni At, On, In
+
+Le preposizioni *At*, *On*, *In* vengono utilizzate per per luoghi e periodi generali:
+
+* *At* per fornire indicazioni specifiche;
+* *On* per indicazioni più generiche;
+* *In* per indicazioni a livello ancora più ampio.
+
+La tabella seguente chiarisce meglio il concetto: 
+
+| Preposizione | Utilizzo                                          | Esempio                                                      |
+| ------------ | ------------------------------------------------- | ------------------------------------------------------------ |
+| AT           | Indirizzo Specifico  Luogo Specifico  Orario      | I live at 23 Oxford street <br />We meet at the pub <br />I leave at 3:15 PM |
+| ON           | Strade, Viali Giorni                              | I live on Oxford<br />I leave on Monday                      |
+| IN           | Stato Città Continente Secoli Anni Mesi Settimane | I live in Italy <br />I live in Milan<br />I live in Europe <br />We live in the XXI Century <br />I was born in 1988 <br />I leave in may I leave in one week |
+
+![prepostions-on_in_at](./allegati/prepostions-on_in_at.png)
+
+
+
+
+
 Note extra per successive sezioni:
 
 ```
