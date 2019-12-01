@@ -6,27 +6,27 @@ Appunti di Inglese scritti durante il mio percorso di apprendimento di questa li
 
 ## Numerali
 
-|               | **Cardinali**        | **Ordinali**  | **Ordinali Forma Breve** |
-| ------------- | -------------------- | ------------- | ------------------------ |
-| 0             | Zero, O, Nought, Nil | //            | //                       |
-| 1             | One                  | First         | 1st                      |
-| 2             | Two                  | Second        | 2nd                      |
-| 3             | Three                | Third         | 3rd                      |
-| 4             | Four                 | Fourth        | 4th                      |
-| 5             | Five                 | Fifth         | 5th                      |
-| 6             | Six                  | Sixth         | 6ht                      |
-| 7             | Seven                | Seventh       | 7th                      |
-| 8             | Eight                | Eight         | 8th                      |
-| 9             | Nine                 | Ninth         | 9th                      |
-| 10            | Ten                  | Tenth         | 10th                     |
-| 11            | Eleven               | Eleventh      | 11th                     |
-| 12            | Twelve               | Twelfth       | 12th                     |
-| 22            | Twenty-two           | Twenty-Second | 22nd                     |
-| 30            | Thirty               | Thirtieth     | 30th                     |
-| 100           | One hundred          | Hundredth     | 100th                    |
-| 1000          | One thousand         | Thousandth    | 1000th                   |
-| 1.000.000     | One million          | Millionth     | 1000000th                |
-| 1.000.000.000 | One billion          | Billionth     | 100000000000th           |
+|               | Cardinali            | Ordinali      | Ordinali Forma Breve |
+| ------------- | -------------------- | ------------- | -------------------- |
+| 0             | Zero, O, Nought, Nil | //            | //                   |
+| 1             | One                  | First         | 1st                  |
+| 2             | Two                  | Second        | 2nd                  |
+| 3             | Three                | Third         | 3rd                  |
+| 4             | Four                 | Fourth        | 4th                  |
+| 5             | Five                 | Fifth         | 5th                  |
+| 6             | Six                  | Sixth         | 6ht                  |
+| 7             | Seven                | Seventh       | 7th                  |
+| 8             | Eight                | Eight         | 8th                  |
+| 9             | Nine                 | Ninth         | 9th                  |
+| 10            | Ten                  | Tenth         | 10th                 |
+| 11            | Eleven               | Eleventh      | 11th                 |
+| 12            | Twelve               | Twelfth       | 12th                 |
+| 22            | Twenty-two           | Twenty-Second | 22nd                 |
+| 30            | Thirty               | Thirtieth     | 30th                 |
+| 100           | One hundred          | Hundredth     | 100th                |
+| 1000          | One thousand         | Thousandth    | 1000th               |
+| 1.000.000     | One million          | Millionth     | 1000000th            |
+| 1.000.000.000 | One billion          | Billionth     | 100000000000th       |
 
 Regole nella lettura o scrittura dei numeri:
 
@@ -55,14 +55,14 @@ Schema utile per una veloce comprensione:
 
 Alcuni esempi:
 
-| **Orario** | **Traduzione**                                         |
-| ---------- | ------------------------------------------------------ |
-| 3:20       | It’s twenty past three                                 |
-| 3:40       | It’s twenty to four                                    |
-| 19:30      | It's half past seven p.m.                              |
-| 17:45      | It’s a quarter to six p.m. (mancano 15 minuti alle 18) |
-| 12:30      | It’s half past twelve p.m.                             |
-| 22:15      | It's a quarter past ten p.m.                           |
+| Orario | Traduzione                                             |
+| ------ | ------------------------------------------------------ |
+| 3:20   | It’s twenty past three                                 |
+| 3:40   | It’s twenty to four                                    |
+| 19:30  | It's half past seven p.m.                              |
+| 17:45  | It’s a quarter to six p.m. (mancano 15 minuti alle 18) |
+| 12:30  | It’s half past twelve p.m.                             |
+| 22:15  | It's a quarter past ten p.m.                           |
 
 Alcune abitudini per indicare un orario:
 
@@ -84,15 +84,15 @@ Note:
 
 ## Giorni della Settimana 
 
-| **Italiano** | **Inglese**                  |
-| ------------ | ---------------------------- |
-| Lunedì       | Monday  (si legge mandei)    |
-| Martedì      | Tuesday (si legge tiuSdei)   |
-| Mercoledì    | Wednesday (si legge uenSdei) |
-| Giovedì      | Thursday (si legge THéSdei)  |
-| Venerdì      | Friday (si legge fraidei)    |
-| Sabato       | Saturday (si legge satedei)  |
-| Domenica     | Sunday (si legge sandei)     |
+| Italiano  | Inglese                      |
+| --------- | ---------------------------- |
+| Lunedì    | Monday  (si legge mandei)    |
+| Martedì   | Tuesday (si legge tiuSdei)   |
+| Mercoledì | Wednesday (si legge uenSdei) |
+| Giovedì   | Thursday (si legge THéSdei)  |
+| Venerdì   | Friday (si legge fraidei)    |
+| Sabato    | Saturday (si legge satedei)  |
+| Domenica  | Sunday (si legge sandei)     |
 
 Note:
 
@@ -104,20 +104,20 @@ Note:
 
 ## Mesi
 
-| **Italiano** | **Inglese**                              | Inglese (forma breve) |
-| ------------ | ---------------------------------------- | --------------------- |
-| Gennaio      | January (si legge gianiuari)             | Jan                   |
-| Febbraio     | February (si pronuncia come in italiano) | Feb                   |
-| Marzo        | March (si legge màc)                     | Mar                   |
-| Aprile       | April (si legge eiprol)                  | Apr                   |
-| Maggio       | May (si legge mei)                       | May                   |
-| Giugno       | June (si legge giùn)                     | Jun                   |
-| Luglio       | July (si legge giulai)                   | Jul                   |
-| Agosto       | August (si legge ógast)                  | Aug                   |
-| Settembre    | September (si legge sepˈtembə)           | Sept                  |
-| Ottobre      | October (si legge oktouba)               | Oct                   |
-| Novembre     | November (si legge nouvemba)             | Nov                   |
-| Dicembre     | December (si legge disemba)              | Dec                   |
+| Italiano  | Inglese                                  | Inglese (forma breve) |
+| --------- | ---------------------------------------- | --------------------- |
+| Gennaio   | January (si legge gianiuari)             | Jan                   |
+| Febbraio  | February (si pronuncia come in italiano) | Feb                   |
+| Marzo     | March (si legge màc)                     | Mar                   |
+| Aprile    | April (si legge eiprol)                  | Apr                   |
+| Maggio    | May (si legge mei)                       | May                   |
+| Giugno    | June (si legge giùn)                     | Jun                   |
+| Luglio    | July (si legge giulai)                   | Jul                   |
+| Agosto    | August (si legge ógast)                  | Aug                   |
+| Settembre | September (si legge sepˈtembə)           | Sept                  |
+| Ottobre   | October (si legge oktouba)               | Oct                   |
+| Novembre  | November (si legge nouvemba)             | Nov                   |
+| Dicembre  | December (si legge disemba)              | Dec                   |
 
 Note:
 
@@ -137,13 +137,13 @@ Per formulare le date possono essere usati due sistemi:
 
 Gli anni non sono mai preceduti dall’articolo e vengono letti a coppie di cifre, ovvero:
 
-| **Anno** | **Si legge** | **Traduzione**          |
-| -------- | ------------ | ----------------------- |
-| 1988     | 19 + 88      | Nineteen + Eighty-Eight |
-| 1900     | 19 + 100     | Nineteen +Hundred       |
-| 2000     | 2000         | Two Thousand            |
-| 2001     | 2000 + 1     | Tho Thousand and One    |
-| 2010     | 20+10        | Twenty + Ten            |
+| Anno | Si legge | Traduzione              |
+| ---- | -------- | ----------------------- |
+| 1988 | 19 + 88  | Nineteen + Eighty-Eight |
+| 1900 | 19 + 100 | Nineteen +Hundred       |
+| 2000 | 2000     | Two Thousand            |
+| 2001 | 2000 + 1 | Tho Thousand and One    |
+| 2010 | 20+10    | Twenty + Ten            |
 
 Note:
 
@@ -161,16 +161,16 @@ In inglese, come nelle altre lingue, ci sono due tipologie di pronomi personali:
 - **Soggetto**: sono coloro che compiono l’azione;
 - **Complemento**: sono coloro che ricevono l’azione compiuta da un pronome soggetto.
 
-| **Italiano** | **Soggetto** | **Italiano** | **Complemento** |
-| ------------ | ------------ | ------------ | --------------- |
-| Io           | I            | Me/Mi        | Me              |
-| Tu           | You          | Te/Ti        | You             |
-| Egli         | He           | Lui          | Him             |
-| Ella         | She          | Lei          | Her             |
-| Esso/a       | It           |              | It              |
-| Noi          | We           | Noi/Ci       | Us              |
-| Voi          | You          | Voi/Vi       | You             |
-| Essi         | They         | Essi/Loro    | Them            |
+| Italiano | Soggetto | Italiano  | Complemento |
+| -------- | -------- | --------- | ----------- |
+| Io       | I        | Me/Mi     | Me          |
+| Tu       | You      | Te/Ti     | You         |
+| Egli     | He       | Lui       | Him         |
+| Ella     | She      | Lei       | Her         |
+| Esso/a   | It       |           | It          |
+| Noi      | We       | Noi/Ci    | Us          |
+| Voi      | You      | Voi/Vi    | You         |
+| Essi     | They     | Essi/Loro | Them        |
 
 Note:
 
@@ -221,21 +221,21 @@ Esistono però delle eccezioni per formarle il plurale
 
 Esempi:
 
-| **Eccezione**                      | **Singolare**      | **Plurale** |
-| ---------------------------------- | ------------------ | ----------- |
-| Termina in “O”                     | Tomato             | Tomatoes    |
-| Termina in “SS"                    | Kiss               | Kisses      |
-| Termina in “X”                     | Box                | Boxes       |
-| Termina in “FE”                    | Knife (coltello)   | Knives      |
-| Termina in “F"                     | Scarf (sciarpa)    | Scarves     |
-| Termina in “Y” prec. da consonante | Daisy (margherita) | Daisies     |
-| Termina in “Y” prec. da consonante | Cherry (ciliegia)  | Cherries    |
-| Termina in “Y" prec. da vocale     | Key                | Keys        |
-| Termina in “Y" prec. da vocale     | Monkey             | Monkeys     |
+| Eccezione                          | Singolare          | Plurale  |
+| ---------------------------------- | ------------------ | -------- |
+| Termina in “O”                     | Tomato             | Tomatoes |
+| Termina in “SS"                    | Kiss               | Kisses   |
+| Termina in “X”                     | Box                | Boxes    |
+| Termina in “FE”                    | Knife (coltello)   | Knives   |
+| Termina in “F"                     | Scarf (sciarpa)    | Scarves  |
+| Termina in “Y” prec. da consonante | Daisy (margherita) | Daisies  |
+| Termina in “Y” prec. da consonante | Cherry (ciliegia)  | Cherries |
+| Termina in “Y" prec. da vocale     | Key                | Keys     |
+| Termina in “Y" prec. da vocale     | Monkey             | Monkeys  |
 
 **Sostantivi irregolari al plurale**
 
-| **Singolare** | **Plurale**                  |
+| Singolare     | Plurale                      |
 | ------------- | ---------------------------- |
 | Woman         | Women                        |
 | Man           | Men                          |
@@ -254,10 +254,10 @@ Esempi:
 
 ## Articoli
 
-| **Tipo**        | **Inglese** | **Italiano**               |
-| --------------- | ----------- | -------------------------- |
-| Determinativo   | The         | Il, Lo, La, L’, I, Gli, Le |
-| Indeterminativo | A - An      | Un, Un’, Uno, Una          |
+| Tipo            | Inglese | Italiano                   |
+| --------------- | ------- | -------------------------- |
+| Determinativo   | The     | Il, Lo, La, L’, I, Gli, Le |
+| Indeterminativo | A - An  | Un, Un’, Uno, Una          |
 
 
 
@@ -606,6 +606,181 @@ Esempi:
 * Are there any biscuits? (domanda generica);
 * Do you want some coffee? (richiesta/offerta);
 * Do you want some biscuits? (richiesta/offerta).
+
+
+
+
+
+## Verbi Irregolari
+
+Suddivisi in gruppi per facilitarne la memorizzazione.
+
+
+
+##### 1 Gruppo: Le tre forme sono uguali
+
+| Base Form          | Past Simple | Past Participle |
+| ------------------ | ----------- | --------------- |
+| cost (costare)     | cost        | cost            |
+| cut (tagliare)     | cut         | cut             |
+| hit (colpire)      | hit         | hit             |
+| hurt (ferire)      | hurt        | hurt            |
+| let (lasciare)     | let         | let             |
+| put (mettere)      | put         | put             |
+| read (leggere)     | read        | read            |
+| shut (chiudere)    | shut        | shut            |
+| quit (abbandonare) | quit        | quit            |
+
+
+
+##### 2 Gruppo: La terza forma del verbo è formata aggiungendo -n dalla seconda forma
+
+| Base Form          | Past Simple | Past Participle |
+| ------------------ | ----------- | --------------- |
+| break (rompere)    | broke       | broken          |
+| choose (scegliere) | chose       | chosen          |
+| freeze (congelare) | froze       | frozen          |
+| speak (parlare)    | spoke       | spoken          |
+| steal (rubare)     | stole       | stolen          |
+| swear (giurare)    | swore       | sworn           |
+| tear (strappare)   | tore        | torn            |
+| wake (svegliare)   | woke        | woken           |
+| wear (indossare)   | wore        | worn            |
+
+
+
+##### 3 Gruppo: La terza forma del verbo è formata aggiungendo -n dalla forma base
+
+| Base Form            | Past Simple | Past Participle |
+| -------------------- | ----------- | --------------- |
+| bite (mordere)       | bit         | bitten          |
+| drive (guidare)      | drove       | driven          |
+| eat (mangiare)       | ate         | eaten           |
+| fall (cadere)        | feel        | fallen          |
+| give (dare/donare)   | gave        | given           |
+| forgive* (perdonare) | forgave     | forgiven        |
+| hide (nascondere)    | hid         | hidden          |
+| ride (cavalcare)     | rode        | ridden          |
+| rise (sorgere)       | rose        | risen           |
+| see (vedere)         | saw         | seen            |
+| shake (scuotere)     | shook       | shaken          |
+| take (prendere)      | took        | taken           |
+| write (scrivere)     | wrote       | written         |
+
+
+
+##### 4 Gruppo: La seconda forma termina con -ew mentre la terza con -own o -awn
+
+| Base Form               | Past Simple | Past Participle |
+| ----------------------- | ----------- | --------------- |
+| blow (soffiare)         | blew        | blown           |
+| draw (disegnare)        | drew        | drawn           |
+| fly (volare)            | flew        | flown           |
+| grow (crescere)         | grew        | grown           |
+| know (sapere/conoscere) | knew        | known           |
+| throw (tirare)          | threw       | thrown          |
+
+
+
+##### 5 Gruppo: La seconda e terza forma si forma aggiungendo -aught o -ought
+
+| Base Form                   | Past Simple | Past Participle |
+| --------------------------- | ----------- | --------------- |
+| bring (portare)             | brought     | brought         |
+| buy (comprare)              | bought      | bought          |
+| catch (prendere)            | caught      | caught          |
+| fight (combattere/litigare) | fought      | fought          |
+| teach (insegnare)           | taught      | taught          |
+| think (pensare)             | thought     | thought         |
+
+
+
+##### 6 Gruppo: Alternanza della vocale "e" in tutte le forme
+
+| Base Form                   | Past Simple | Past Participle |
+| --------------------------- | ----------- | --------------- |
+| feed (nutrire)              | fed         | fed             |
+| fell (sentire internamente) | felt        | felt            |
+| keep (mantenere)            | kept        | kept            |
+| sleep (dormire)             | slept       | slept           |
+
+
+
+##### 7 Gruppo: La seconda e la terza forma si formano aggiungendo -t
+
+| Base Form                    | Past Simple | Past Participle |
+| ---------------------------- | ----------- | --------------- |
+| bend (piegare)               | bent        | bent            |
+| build (costruire)            | built       | built           |
+| burn (bruciare)              | burnt       | burnt           |
+| deal (trattare)              | dealt       | dealt           |
+| dream (sognare)              | dreamt      | dreamt          |
+| learn (imparare)             | learnt      | learnt          |
+| leave (partire/lasciare)     | left        | left            |
+| lend (dare in prestito)      | lent        | lent            |
+| lose (perdere)               | lost        | lost            |
+| mean (significare/intendere) | meant       | meant           |
+| send (inviare/spedire)       | sent        | sent            |
+| shoot (sparare)              | shot        | hsot            |
+| smell (odorare/avere odore)  | smelt       | smelt           |
+| speel (fare lo spelling)     | spelt       | spelt           |
+| spend (spendere/trascorrere) | spent       | spent           |
+| sweep (spazzare)             | sweept      | sweept          |
+
+
+
+##### 8 Gruppo: La seconda e terza forma si formano aggiungendo una -d
+
+| Base Form              | Past Simple | Past Participle |
+| ---------------------- | ----------- | --------------- |
+| find (trovare)         | found       | found           |
+| hear (sentire)         | heard       | heard           |
+| hold (tenere)          | held        | held            |
+| lay (giacere/deporre)  | laid        | laid            |
+| pay (pagare)           | paid        | paid            |
+| say (dire)             | said        | said            |
+| sell (vendere)         | sold        | sold            |
+| tell (dire/raccontare) | told        | told            |
+
+
+
+##### 9 Gruppo: 
+
+| Base Form        | Past Simple | Past Participle |
+| ---------------- | ----------- | --------------- |
+| begin (iniziare) | began       | begun           |
+| drink (bere)     | drank       | drunk           |
+| ring (suonare)   | rang        | rang            |
+| run (correre)    | ran         | run             |
+| sing (cantare)   | sang        | sung            |
+| sink (affondare) | sank        | sunk            |
+| swim (nuotare)   | swam        | swum            |
+
+
+
+##### 10 Gruppo: la seconda e terza forma sono uguali
+
+| Base Form         | Past Simple | Past Participle |
+| ----------------- | ----------- | --------------- |
+| dig (scavare)     | dug         | dug             |
+| have (avere)      | had         | had             |
+| meet (incontrare) | met         | met             |
+| sit (sedersi)     | sat         | sat             |
+| win (vincere)     | won         | won             |
+
+
+
+##### 11 Gruppo: totalmente irregolare
+
+| Base Form   | Past Simple                         | Past Participle |
+| ----------- | ----------------------------------- | --------------- |
+| be (essere) | was (singolare)<br />were (plurale) | been            |
+| do (fare)   | did                                 | done            |
+| go (andare) | went                                | gone            |
+
+
+
+*È un verbo composto
 
 
 
