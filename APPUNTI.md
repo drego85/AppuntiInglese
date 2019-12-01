@@ -1,8 +1,10 @@
-## Appunti Inglese
+# Appunti Inglese
+
+Appunti di Inglese scritti durante il mio percorso di apprendimento di questa lingua, maggiori dettagli nel [README.md](./README.md)
 
 
 
-### Numerali
+## Numerali
 
 |               | **Cardinali**        | **Ordinali**  | **Ordinali Forma Breve** |
 | ------------- | -------------------- | ------------- | ------------------------ |
@@ -40,7 +42,7 @@ Regole nella lettura o scrittura dei numeri:
 
 
 
-### Le ore
+## Le ore
 
 Per leggere le ore in Inglese è necessario osservare in quale quadrante, di un orologio analogico, si trovino le lancette dei minuti:
 
@@ -80,7 +82,7 @@ Note:
 
 
 
-### Giorni della Settimana 
+## Giorni della Settimana 
 
 | **Italiano** | **Inglese**                  |
 | ------------ | ---------------------------- |
@@ -100,7 +102,7 @@ Note:
 
 
 
-### Mesi
+## Mesi
 
 | **Italiano** | **Inglese**                              | Inglese (forma breve) |
 | ------------ | ---------------------------------------- | --------------------- |
@@ -124,7 +126,7 @@ Note:
 
 
 
-### Date
+## Date
 
 Per formulare le date possono essere usati due sistemi:
 
@@ -152,7 +154,7 @@ Note:
 
 
 
-### Pronomi Personali
+## Pronomi Personali
 
 In inglese, come nelle altre lingue, ci sono due tipologie di pronomi personali:
 
@@ -191,7 +193,7 @@ Esempi:
 
 
 
-### Plurale
+## Plurale
 
 In Inglese il plurale dei sostantivi si forma, di norma, aggiungendo una “s" al sostantivo. 
 
@@ -250,7 +252,7 @@ Esempi:
 
 
 
-### Articoli
+## Articoli
 
 | **Tipo**        | **Inglese** | **Italiano**               |
 | --------------- | ----------- | -------------------------- |
@@ -325,18 +327,18 @@ Vediamo come inizialmente i tre personaggi sono stati introdotti usando l'artico
 
 
 
-### Aggettivi Possessivi
+## Aggettivi Possessivi
 
-| Italiano                     | Inglese |
-| ---------------------------- | ------- |
-| Mio, Mia, Miei, Mie          | My      |
-| Tuo,Tua,Tuoi,Tue             | Your    |
-| Suo,Sua,Suoi,Sue (di Lui)    | His     |
-| Suo,Sua,Suoi,Sue (di Lei)    | Her     |
-| Suo,Sua,Suoi,Sue (di Esso/a) | Its     |
-| Nostro,Nostra,Nostri,Nostre  | Our     |
-| Vostro,Vostra,Vostri,Vostre  | Your    |
-| Loro                         | Their   |
+| Italiano                        | Inglese |
+| ------------------------------- | ------- |
+| Mio, Mia, Miei, Mie             | My      |
+| Tuo ,Tua, Tuoi, Tue             | Your    |
+| Suo, Sua, Suoi, Sue (di Lui)    | His     |
+| Suo, Sua, Suoi, Sue (di Lei)    | Her     |
+| Suo, Sua, Suoi, Sue (di Esso/a) | Its     |
+| Nostro, Nostra, Nostri, Nostre  | Our     |
+| Vostro, Vostra, Vostri, Vostre  | Your    |
+| Loro                            | Their   |
 
 Note:
 
@@ -345,7 +347,7 @@ Note:
 
 
 
-### Aggettivi Dimostrativi
+## Aggettivi Dimostrativi
 
 Gli aggettivi dimostrativi servono ad indicare una persona, un animale o una cosa lontano o vicino a chi parla. 
 
@@ -358,7 +360,48 @@ Gli aggettivi dimostrativi servono ad indicare una persona, un animale o una cos
 
 
 
-### Genitivo Sassone
+## Pronomi Possessivi
+
+I pronomi possessivi assomigliano agli aggettivi possessivi ma fungono da pronomi poiché sostituiscono uno o più sostantivi all'interno della frase.
+
+| Aggettivi Possessivi | Pronomi Possessivi |
+| -------------------- | ------------------ |
+| My                   | Mine               |
+| Your                 | Yours              |
+| His                  | His                |
+| Her                  | Hers               |
+| Its                  | -                  |
+| Our                  | Ours               |
+| Your                 | Yours              |
+| Their                | Theirs             |
+
+Esempio:
+
+*Those are my books , where are your books? (Quelli sono i miei libri, dove sono i tuoi libri?)*
+
+In questa frase il sostantivo “books” viene ripetuto due volte, per poterlo esprimere solo una volta possiamo utilizzare un pronome possessivo.
+
+*Those are my books, where are yours?* (Quelli sono i mie libri, dove sono i tuoi? 
+
+Il pronome *yours* ha sostituto il sostantivo ripetuto di “books”.
+
+**I pronomi possessivi possono anche fungere da aggettivi possessivi posposti, ovvero essere presenti nella frase con un sostantivo espresso ma posti dopo di esso.** 
+
+| Aggettivi Anteposti | Aggettivi Posposti   |
+| ------------------- | -------------------- |
+| This is my house    | This house is mine   |
+| This is your house  | This house is yours  |
+| This is his house   | This house is his    |
+| This is her house   | This house is hers   |
+| This is our house   | This house is ours   |
+| This is your house  | This house is yours  |
+| This is their house | This house is theirs |
+
+
+
+
+
+## Genitivo Sassone
 
 Il genitivo sassone esprime un legame di appartenenza, quando in italiano useremmo la preposizione *di*, e può riguardare:
 
@@ -385,7 +428,7 @@ Note:
 
 
 
-### There Is - There Are
+## There Is - There Are
 
 Per esprimere la presenza di uno o più oggetti nello spazio si utilizzano le espressioni there is o there are.
 
@@ -396,7 +439,7 @@ Per esprimere la presenza di uno o più oggetti nello spazio si utilizzano le es
 
 
 
-### Preposizioni At, On, In
+## Preposizioni At, On, In
 
 Le preposizioni *At*, *On*, *In* vengono utilizzate per per luoghi e periodi generali:
 
@@ -418,9 +461,7 @@ La tabella seguente chiarisce meglio il concetto:
 
 
 
-### Espressioni di Tempo
-
-
+## Espressioni di Tempo
 
 | Italiano                           | Inglese                 |
 | ---------------------------------- | ----------------------- |
@@ -436,7 +477,7 @@ La tabella seguente chiarisce meglio il concetto:
 
 
 
-### Avverbi di Frequenza
+## Avverbi di Frequenza
 
 | Avverbio Italiano | Avverbio Inglese                                | Percentuali di possibilità |
 | ----------------- | ----------------------------------------------- | -------------------------- |
@@ -455,6 +496,116 @@ Note:
   * Forma Affermativa: gli avverbi vanno messi tra soggetto e verbo (Es. *Silva often studies with her sister*);
   * Forma Interrogativa: gli avverbi vanno messi tra soggetto e verbo (Es. *Does Silvia often study with her sister?*)
   * Forma Negativa: gli avverbi vanno tra ausiliare e verbo (Es. *Silva doesn’t often study with her sister.*)
+
+
+
+
+
+## Pronomi Indefiniti
+
+I pronomi indefiniti indicano un insieme di persone, di oggetti o un luogo in modo, appunto, indefinito. 
+
+Gli indefiniti corrispondono in italiano ad esempio a: *nessuno*, niente, *qualcosa*, *qualcuno* ma anche ovunque, *da qualche parte*, *da nessuna parte*. 
+
+I pronomi indefiniti si formano con l’unione di un prefisso, che indica la quantità e di un prefisso che indica se ci si riferisce alle persone (*-body/-one*), cose(*-thing*) oppure ai luoghi (*-where*).
+
+|                 | EVERY-                   | SOME-                    | ANY-                | NO-                |
+| --------------- | ------------------------ | ------------------------ | ------------------- | ------------------ |
+| -BODY<br />-ONE | EVERYBODY <br />EVERYONE | SOMEBODY<br />   SOMEONE | ANYBODY<br />ANYONE | NOBODY<br />NO ONE |
+| -THING          | EVERYTHING               | SOMETHING                | ANYTHING            | NOTHING            |
+| -WHERE          | EVERYWHERE               | SOMEWHERE                | ANYWHERE            | NOWHERE            |
+
+
+
+## Sostantivi Numerabili e Non numerabili
+
+In Inglese, come in ogni altra lingua, esistono sostantivi numerabile e non e si distinguono principalmente dalle seguenti caratteristiche:
+
+* Numerabili: Indicano cose che si possono contattare quindi hanno una formare singolare o plurale. La forma singolare può essere usata con l'articolo *a* o *an*.
+* Non numerabili: Indicano cose che non si possono contare o numerare. Possono essere oggetti molto piccoli o senza forma o ad idee o quantità astratte. Solitamente non dispongono di una forma plurale.
+
+Alcuni sostantivi numerabili in italiano non lo sono in inglese, ad esempio:
+
+* *News;*
+* *Furniture;*
+* *Advice;*
+* *Information;*
+* *Hair;*
+* *Homework;*
+* *Luggage.*
+
+## I quantificatori
+
+I quantificatori ci permettono di esprimere la quantità di qualcosa, solitamente il quantificatore è posizionato prima di un sostantivo.
+
+Alcuni quantificatori indicano grandi quantità (*a lot, much, many*), altri piccole quantità (*a little, a bit, a few*) e altri ancora quantità indefinite (*some, any*). Ci sono inoltre quantificatori che esprimono l’idea di sufficienza (*enough, plenty*).
+
+Esistono sostantivi numerabili e non numerabili a ciascuno va abbinato il corretto quantificatore.
+
+| Quantificatore | Riferimento      | Sostantivi numerabili | Sostantivi non numerabili | Note                                                       |
+| -------------- | ---------------- | --------------------- | ------------------------- | ---------------------------------------------------------- |
+| A lot of       | Grandi Quantità  | ✓                     | ✓                         | Si usa solo in frasi affermative                           |
+| Many           | Grandi Quantità  | ✓                     |                           |                                                            |
+| Much           | Grandi Quantità  |                       | ✓                         |                                                            |
+| A Few          | Piccole Quantità | ✓                     |                           |                                                            |
+| A Little       | Piccole Quantità |                       | ✓                         |                                                            |
+| A Bit of       | Piccole Quantità |                       | ✓                         |                                                            |
+| Some           |                  | ✓                     | ✓                         | Si usa solo in frasi affermative o di richieste e offerta. |
+| Any            |                  | ✓                     | ✓                         | Si usa solo in frasi negative o interrogative.             |
+
+Esempi:
+
+* I have a lot of friends;
+
+* I have a lot of patience;
+
+* I have many friends;
+
+* I have miche patience;
+
+* I don't have many friends;
+
+* I don't have much patience;
+
+* Do you have many friends?
+
+* Do you have much patience?
+
+* How many candles do you want for the cake?
+
+* How much sugar do you want in the tea?
+
+* I have few friends;
+
+* I have little patience;
+
+* I have a few friends;
+
+* I have a little patience.
+
+  
+
+## Some  - Any
+
+Corrispondono entrambi ai nostri articoli partitivi *Dei*, *Del*, *Delle*, *Della*, *Dell* o all’espressione *Un po’ di….*
+
+Il loro uso dipende dalla forma del verbo (negativa o affermativa) o dal tipo di frase (affermativa, domanda, richiesta), come riportato dalla seguente tabella:
+
+|          | Frase Affermativa | Frase Negativa | Domanda Generica | Richiesta/Offerta |
+| -------- | ----------------- | -------------- | ---------------- | ----------------- |
+| **SOME** | ✓                 |                |                  | ✓                 |
+| **ANY**  |                   | ✓              | ✓                |                   |
+
+Esempi:
+
+* There is some coffee (frase affermativa);
+* There are some biscuits (frase affermativa);
+* There isn’t any coffee (frase negativa);
+* There aren’t any biscuits (frase negativa);
+* Is there any coffee? (domanda generica);
+* Are there any biscuits? (domanda generica);
+* Do you want some coffee? (richiesta/offerta);
+* Do you want some biscuits? (richiesta/offerta).
 
 
 
