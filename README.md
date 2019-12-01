@@ -13,7 +13,7 @@ Appunti di Inglese scritti durante il mio percorso di apprendimento di questa li
 
 ### Credits
 
-Le fonti da cui ho studiato e da cui derivano questi appunti:
+These note was made with ♥ by [Andrea Draghetti](https://www.andreadraghetti.it) but it's important to mention my sources:
 
 * [School2you](https://school2u.it/)
 * [British Institute](https://www.britishinstitutes.it/)
@@ -22,3 +22,7 @@ Le fonti da cui ho studiato e da cui derivano questi appunti:
 * [Ad Maiora](https://www.youtube.com/channel/UCT4vsJCBYUNqbTJKDP3I-bg)
 * [Speak English with Vanessa](https://www.speakenglishwithvanessa.com/)
 * [Babbel](https://babbel.com/)
+* [Grammaticainglese.org](http://www.grammaticainglese.org)
+* [Wallstreet](https://www.wallstreet.it/)
+* [National Geographic Learning](https://ngl.cengage.com/)
+
