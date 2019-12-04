@@ -492,12 +492,11 @@ La tabella seguente chiarisce meglio il concetto:
 
 Note:
 
-* Gli avverbi di frequenza devono essere posizionati nella frase in base alla forma, ovvero:
-  * Forma Affermativa: gli avverbi vanno messi tra soggetto e verbo (Es. *Silva often studies with her sister*);
+* Gli avverbi di frequenza vengono usualmente sfruttati assieme alla forma verbale Simple Present;
+* Gli avverbi di frequenza devono essere posizionati in base alla forma della frase, ovvero:
+  * Forma Affermativa: gli avverbi vanno messi tra soggetto e verbo (Es. *Silva often studies with her sister*) ad eccezione del verbo To Be (essere) che va dopo il soggetto e verbo (Es. *Silvia is often tired*);
   * Forma Interrogativa: gli avverbi vanno messi tra soggetto e verbo (Es. *Does Silvia often study with her sister?*)
-  * Forma Negativa: gli avverbi vanno tra ausiliare e verbo (Es. *Silva doesn’t often study with her sister.*)
-
-
+  * Forma Negativa: gli avverbi vanno tra ausiliare e verbo (Es. *Silva doesn’t often study with her sister*) ad eccezione del verbo To Be (essere) che va dopo il soggetto e verbo (Es. *Silvia is not often tired*).
 
 
 
@@ -784,9 +783,130 @@ Suddivisi in gruppi per facilitarne la memorizzazione.
 
 
 
+## Present Simple
+
+Il Present Simple si usa per indicare:
+
+* Per azioni genericamente vere (Es. Io vivo in Italia);
+* Per azioni che vengono ripetute (Es. Vado ad allenamento tutte le settimane);
+* Quando è presente nella frase un avverbio di frequenza;
+* Verbi che non si possono formare con il gerundio (-ing form).
+
+##### Formazione affermativa
+
+| Soggetto + Verbo alla forma base (aggiungo *-s* alla terza persona singolare) |
+| ------------------------------------------------------------ |
+| I play                                                       |
+| You play                                                     |
+| He/She/It plays                                              |
+| We play                                                      |
+| You play                                                     |
+| They play                                                    |
+
+Note per la terza persona:
+
+* I verbi che terminano per *s, ss, sh, ch, x, o, z* aggiungo *es* alla terza persona;
+* I verbi che terminano per *y* preceduta da una consonante sostituiscono la *y* con la *i* e poi aggiungo *es*;
+* I verbi che terminano per *y* preceduta da una vocale aggiungono semplicemente la *s*.
+
+| Verbo    | Terza Persona She/He/It |
+| -------- | ----------------------- |
+| To kiss  | Kisses                  |
+| To Wash  | Washes                  |
+| To Watch | Watches                 |
+| To Fix   | Fixes                   |
+| To Do    | Does                    |
+| Buzz     | Buzzes                  |
+| To Study | Studies                 |
+| To Play  | Plays                   |
+
+##### Formazione interrogativa
+
+Per formare l'interrogativa sfruttiamo il verbo To Do come ausiliare, essendo un ausiliare perde completamente il suo significo (fare) originale. 
+
+| Do/Does + Soggetto + Verbo alla forma base |
+| ------------------------------------------ |
+| Do I play?                                 |
+| Do you play?                               |
+| Does He/She/It play?                       |
+| Do we play?                                |
+| Do you play?                               |
+| Do they play?                              |
+
+##### Formazione negativa
+
+Per formare la negativa sfruttiamo il verbo To Do come ausiliare, essendo un ausiliare perde completamente il suo significo (fare) originale. 
+
+| Soggetto + Do/Does not + Verbo alla forma base | Soggetto + Don't/Doesn't + Verbo alla forma base |
+| ---------------------------------------------- | ------------------------------------------------ |
+| I do not play.                                 | I don't play.                                    |
+| You do not play.                               | You don't play.                                  |
+| He/She/It does not play.                       | He/She/It doesn't play.                          |
+| We do not play.                                | We don't play.                                   |
+| You do not play.                               | You don't play.                                  |
+| They do not play.                              | They don't play.                                 |
+
+La forma negativa contratta (colonna di destra) si usa comunemente, la forma negativa estesa si usa invece per scrivere lettere/testi formali.
+
+## Present Continuos
+
+Il Present Continuos si usa per:
+
+* Per azioni che si stanno svolgendo nel momento in cui si parla (Es. Sto andando al lavoro);
+* Per azioni che si svolgono in un periodo attuale differentemente dal normale (Es. In questo periodo sto lavorando, ma solitamente studio).
+
+##### Formazione affermativa
+
+| Soggetto + Verbo To Be + Gerundio (-ing form) |
+| --------------------------------------------- |
+| I'm playing                                   |
+| You are playing                               |
+| He/She/It is playing                          |
+| We are playing                                |
+| You are playing                               |
+| They are playing                              |
+
+Note:
+
+* I verbi che hanno una sillaba e finiscono con una consonante, raddoppiano la consonante e aggiungono *-ing* (Es. cut > cutting );
+* I verbi che terminano con una *-e* silente, la *-e* viene eliminata (Es. write > writing);
+* I verbi che terminano in *-y* aggiungono sempre *-ing* senza distinzioni come nel Presente Simple;
+* Alcuni verbi NON possono essere coniugati al gerundio e sono le seguenti categorie:
+  * Like/Dislike/Hate;
+  * Know/Mean/Understand;
+  * Accidentally sense (Es. Involontariamente ho sentito qualcosa).
+
+##### Formazione interrogativa
+
+Per formare l'interrogativa sfruttiamo il verbo To Be come ausiliare, essendo un ausiliare perde completamente il suo significo (essere) originale. 
+
+| Am/Are/Is + Soggetto + Gerundio (-ing form) |
+| ------------------------------------------- |
+| I'm playing?                                |
+| Are you playing?                            |
+| Is He/She/It playing?                       |
+| Are we playing?                             |
+| Are you playing?                            |
+| Are they playing?                           |
+
+##### Formazione negativa
+
+Per formare la negativa sfruttiamo il verbo To Be come ausiliare, essendo un ausiliare perde completamente il suo significo (essere) originale. 
+
+| Soggetto + Am/Are/Is + NOT + Gerundio (-ing form) | Soggetto + 'm not/Aren't/Isn't + Gerundio (-ing form) |
+| ------------------------------------------------- | ----------------------------------------------------- |
+| I am not playing.                                 | I'm not playing.                                      |
+| You are not playing.                              | You aren't playing.                                   |
+| He/She/It is not playing.                         | He/She/It isn't playing.                              |
+| We are not playing.                               | We aren't playing.                                    |
+| You are not playing.                              | You aren't playing.                                   |
+| They are not playing.                             | They aren't playing.                                  |
 
 
-Note extra per successive sezioni:
+
+
+
+Note extra per successive sezioni: 
 
 ```
 Si tenga sempre a mente la tipica struttura della frase inglese:
