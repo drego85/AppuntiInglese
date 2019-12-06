@@ -11,6 +11,9 @@ Appunti di Inglese scritti durante il mio percorso di apprendimento di questa li
 
 ### Indice
 
+* [Numerali](./APPUNTI.md#numerali)
+* 
+
 
 
 ### Credits
