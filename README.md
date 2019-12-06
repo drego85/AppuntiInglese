@@ -18,12 +18,12 @@ Appunti di Inglese scritti durante il mio percorso di apprendimento di questa li
 These note was made with ♥ by [Andrea Draghetti](https://www.andreadraghetti.it) but it's important to mention my sources:
 
 * [Babbel](https://babbel.com/)
-* [School2you](https://school2u.it/)
+* [Ad Maiora](https://www.youtube.com/channel/UCT4vsJCBYUNqbTJKDP3I-bg)
 * [Bringlese](https://www.briller.me/)
+* [School2you](https://school2u.it/)
 * [Wallstreet](https://www.wallstreet.it/)
-* [LinguaTrip - LinguaMarina](https://linguatrip.com)
 * [British Institute](https://www.britishinstitutes.it/)
 * [National Geographic Learning](https://ngl.cengage.com/)
 * [Grammaticainglese.org](http://www.grammaticainglese.org)
-* [Ad Maiora](https://www.youtube.com/channel/UCT4vsJCBYUNqbTJKDP3I-bg)
+* [LinguaTrip - LinguaMarina](https://linguatrip.com)
 * [Speak English with Vanessa](https://www.speakenglishwithvanessa.com/)
