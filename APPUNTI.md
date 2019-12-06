@@ -533,7 +533,7 @@ Alcuni sostantivi numerabili in italiano non lo sono in inglese, ad esempio:
 * *Homework;*
 * *Luggage.*
 
-## I quantificatori
+## Quantificatori
 
 I quantificatori ci permettono di esprimere la quantità di qualcosa, solitamente il quantificatore è posizionato prima di un sostantivo.
 
