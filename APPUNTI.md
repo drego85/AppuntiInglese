@@ -839,12 +839,12 @@ Per formare la negativa sfruttiamo il verbo To Do come ausiliare, essendo un aus
 
 | Soggetto + Do/Does not + Verbo alla forma base | Soggetto + Don't/Doesn't + Verbo alla forma base |
 | ---------------------------------------------- | ------------------------------------------------ |
-| I do not play.                                 | I don't play.                                    |
-| You do not play.                               | You don't play.                                  |
-| He/She/It does not play.                       | He/She/It doesn't play.                          |
-| We do not play.                                | We don't play.                                   |
-| You do not play.                               | You don't play.                                  |
-| They do not play.                              | They don't play.                                 |
+| I do not play                                  | I don't play                                     |
+| You do not play                                | You don't play                                   |
+| He/She/It does not play                        | He/She/It doesn't play                           |
+| We do not play                                 | We don't play                                    |
+| You do not play                                | You don't play                                   |
+| They do not play                               | They don't play                                  |
 
 La forma negativa contratta (colonna di destra) si usa comunemente, la forma negativa estesa si usa invece per scrivere lettere/testi formali.
 
@@ -895,12 +895,12 @@ Per formare la negativa sfruttiamo il verbo To Be come ausiliare, essendo un aus
 
 | Soggetto + Am/Are/Is + NOT + Gerundio (-ing form) |
 | ------------------------------------------------- |
-| I'm not playing.                                  |
-| You aren't playing.                               |
-| He/She/It isn't playing.                          |
-| We aren't playing.                                |
-| You aren't playing.                               |
-| They aren't playing.                              |
+| I'm not playing                                   |
+| You aren't playing                                |
+| He/She/It isn't playing                           |
+| We aren't playing                                 |
+| You aren't playing                                |
+| They aren't playing                               |
 
 
 
@@ -926,14 +926,14 @@ Si distingue in base al verbo:
 * Regolare: aggiungo *-ed* al verbo. 
 * Irregolare: sfrutto la seconda colonna della tabella in precedenza riportata.
 
-| Soggetto + Verbo To Have + Past Simple |
-| -------------------------------------- |
-| I walked all day                       |
-| You walked all day                     |
-| He/She/It walked all day               |
-| We walked all day                      |
-| You walked all day                     |
-| They walked all day                    |
+| Soggetto + Past Simple   |
+| ------------------------ |
+| I walked all day         |
+| You walked all day       |
+| He/She/It walked all day |
+| We walked all day        |
+| You walked all day       |
+| They walked all day      |
 
 Note formazione regolare:
 
@@ -961,12 +961,12 @@ Per formare la negativa sfruttiamo il verbo To Do al passato come ausiliare, ess
 
 | Soggetto + Did not + Verbo alla forma base |
 | ------------------------------------------ |
-| I didn't play.                             |
-| You didn't play.                           |
-| He/She/It didn't play.                     |
-| We didn't play.                            |
-| You didn't play.                           |
-| They didn't play.                          |
+| I didn't play                              |
+| You didn't play                            |
+| He/She/It didn't play                      |
+| We didn't play                             |
+| You didn't play                            |
+| They didn't play                           |
 
 ## Present Perfect
 
@@ -1027,12 +1027,12 @@ Per formare la negativa sfruttiamo il verbo *To Have* come ausiliare, essendo un
 
 | Soggetto + Have Not + Past Participle |
 | ------------------------------------- |
-| I haven't found the report.           |
-| You haven't found the report.         |
-| He/She/It hasn't found the report.    |
-| We haven't found the report.          |
-| You haven't found the report.         |
-| They haven't found the report.        |
+| I haven't found the report            |
+| You haven't found the report          |
+| He/She/It hasn't found the report     |
+| We haven't found the report           |
+| You haven't found the report          |
+| They haven't found the report         |
 
 
 
@@ -1075,7 +1075,7 @@ Per formare l'interrogativa sfruttiamo il verbo To Be al past simple come ausili
 | Was He/She/It talking with Paul?                             |
 | Were we talking with Paul?                                   |
 | Were you talking with Paul?                                  |
-| Were they talking with Pa                                    |
+| Were they talking with Paul?                                 |
 
 ##### Formazione negativa
 
@@ -1093,6 +1093,61 @@ Per formare la negativa sfruttiamo il verbo To Be al past simple come ausiliare,
 ##### 
 
 ## Past Perfect
+
+Il Past Perfect si usa per indicare:
+
+* Un azione passata rispetto ad una azione anche essa passata, ovvero un trapassato (Es. Avevo visitato Roma due volte prima di andare a Venezia).
+
+##### Formazione affermativa
+
+Si distingue in base al verbo:
+
+* Regolare: aggiungo *-ed* al verbo. 
+* Irregolare: sfrutto la terza colonna della tabella in precedenza riportata.
+
+| Soggetto + Verbo To Have al Past Simple + Past Participle |
+| --------------------------------------------------------- |
+| I had worked hard                                         |
+| You had worked hard                                       |
+| He/She/It had worked hard                                 |
+| We had worked hard                                        |
+| You had worked hard                                       |
+| They had worked hard                                      |
+
+Note formazione regolare:
+
+* La *e* di *-ed* è silente, tranne se il verbo finisce con *t* o *d* (Es. started).
+* I verbi che terminano per *y* preceduta da una consonante sostituiscono la *y* con la *i* e poi aggiungo *ed*;
+* I verbi che terminano per *y* preceduta da una vocale aggiungono semplicemente la *ed*;
+* Il verbo non cambia in base al pronome soggetto.
+
+##### Formazione interrogativa
+
+Per formare l'interrogativa sfruttiamo il verbo To Have al Past Simple come ausiliare, essendo un ausiliare perde completamente il suo significo (avere) originale.
+
+| Verbo To Have al Past Simple + Soggetto + Past Participle |
+| --------------------------------------------------------- |
+| Had I worked hard?                                        |
+| Had you worked hard?                                      |
+| Had He/She/It worked hard?                                |
+| Had we worked hard?                                       |
+| Had you worked hard?                                      |
+| Did they worked hard?                                     |
+
+##### Formazione negativa
+
+Per formare l'interrogativa sfruttiamo il verbo To Have al Past Simple come ausiliare, essendo un ausiliare perde completamente il suo significo (avere) originale.
+
+| Soggetto + Did not + Verbo alla forma base |
+| ------------------------------------------ |
+| I hand't worked hard                       |
+| You hand't worked hard                     |
+| He/She/It hand't worked hard               |
+| We hand't worked hard                      |
+| You hand't worked hard                     |
+| They hand't worked hard                    |
+
+## 
 
 
 
