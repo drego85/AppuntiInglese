@@ -1036,15 +1036,61 @@ Per formare la negativa sfruttiamo il verbo *To Have* come ausiliare, essendo un
 
 
 
-
-
-
-
 ## Past Continuous
 
+Il Past Continuous si usa per indicare:
 
+* Una azione o situazione in corso in un particolare momento del passato (Es. Paolo stava guardando la TV);
+* Il background di una storia (Es. Il telefono squillò mentre stavo parlando con Paolo - "mentre stavo parlando con Paolo" è il backgroud)
 
+##### Formazione affermativa
 
+| Soggetto + Verbo To Be al Past Simple + Gerundio (-ing form) |
+| ------------------------------------------------------------ |
+| I was talking with Paul                                      |
+| You were talking with Paul                                   |
+| He/She/It was talking with Paul                              |
+| We were talking with Paul                                    |
+| You were talking with Paul                                   |
+| They were talking with Paul                                  |
+
+Note:
+
+* I verbi che hanno una sillaba e finiscono con una consonante, raddoppiano la consonante e aggiungono *-ing* (Es. cut > cutting );
+* I verbi che terminano con una *-e* silente, la *-e* viene eliminata (Es. write > writing);
+* I verbi che terminano in *-y* aggiungono sempre *-ing* senza distinzioni come nel Presente Simple;
+* Alcuni verbi NON possono essere coniugati al gerundio e sono le seguenti categorie:
+  * Like/Dislike/Hate;
+  * Know/Mean/Understand;
+  * Accidentally sense (Es. Involontariamente ho sentito qualcosa).
+
+##### Formazione interrogativa
+
+Per formare l'interrogativa sfruttiamo il verbo To Be al past simple come ausiliare, essendo un ausiliare perde completamente il suo significo (essere) originale. 
+
+| Soggetto + Verbo To Be al Past Simple + Gerundio (-ing form) |
+| ------------------------------------------------------------ |
+| Was I talking with Paul?                                     |
+| Were you talking with Paul?                                  |
+| Was He/She/It talking with Paul?                             |
+| Were we talking with Paul?                                   |
+| Were you talking with Paul?                                  |
+| Were they talking with Pa                                    |
+
+##### Formazione negativa
+
+Per formare la negativa sfruttiamo il verbo To Be al past simple come ausiliare, essendo un ausiliare perde completamente il suo significo (essere) originale. 
+
+| Verbo To Be al Past Simple + Soggetto + Gerundio (-ing form) |
+| ------------------------------------------------------------ |
+| I wasn't talking with Paul                                   |
+| You weren't talking with Paul                                |
+| He/She/It wasn't talking with Paul                           |
+| We weren't talking with Paul                                 |
+| You weren't talking with Paul                                |
+| They weren't talking with Paul                               |
+
+##### 
 
 ## Past Perfect
 
