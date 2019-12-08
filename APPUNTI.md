@@ -1107,14 +1107,12 @@ Il Past Perfect si usa per indicare:
 | You had worked hard       | You hand't worked hard       | Had you worked hard?       |
 | They had worked hard      | They hand't worked hard      | Did they worked hard?      |
 
-##### Formazione affermativa: Soggetto + Verbo To Have al Past Simple + Past Participle
+**Formazione affermativa: Soggetto + Verbo To Have al Past Simple + Past Participle**
 
 Si distingue in base al verbo:
 
 * Regolare: aggiungo *-ed* al verbo. 
 * Irregolare: sfrutto la terza colonna della tabella in precedenza riportata.
-
-
 
 Note formazione regolare:
 
