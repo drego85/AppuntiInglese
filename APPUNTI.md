@@ -792,7 +792,7 @@ Il Present Simple si usa per indicare:
 * Quando è presente nella frase un avverbio di frequenza;
 * Verbi che non si possono formare con il gerundio (-ing form).
 
-|                 |                        | Interrogative        |
+| Affermative     | Negative               | Interrogative        |
 | --------------- | ---------------------- | -------------------- |
 | I play          | I don't play           | Do I play?           |
 | You play        | You don't play         | Do you play?         |
@@ -853,13 +853,37 @@ Il Present Continuos si usa per:
 Note:
 
 * Per formare la negativa o interrogativa sfruttiamo il verbo To Be come ausiliare, essendo un ausiliare perde completamente il suo significo (essere) originale. 
+
 * I verbi che hanno una sillaba e finiscono con una consonante, raddoppiano la consonante e aggiungono *-ing* (Es. cut > cutting );
+
 * I verbi che terminano con una *-e* silente, la *-e* viene eliminata (Es. write > writing);
+
 * I verbi che terminano in *-y* aggiungono sempre *-ing* senza distinzioni come nel Presente Simple;
+
 * Alcuni verbi NON possono essere coniugati al gerundio e sono le seguenti categorie:
+
   * Like/Dislike/Hate;
   * Know/Mean/Understand;
   * Accidentally sense (Es. Involontariamente ho sentito qualcosa).
+
+  
+
+## ING Form
+
+La ING Form si usa per:
+
+* Quando il verbo è il soggetto della frase (Es. Eating a lot of fruit is important.);
+* Dopo verbi come:
+  * Like - Don't Like;
+  * Love;
+  * Enjoy;
+  * Prefer;
+  * Hate;
+  * Can't stand;
+  * Mind.
+* Dopo una preposizione (Es. I'm very good at playing tennis)
+
+
 
 ## Past Simple
 
@@ -1084,16 +1108,7 @@ Il Present Continuous che ho già trattato in precedenza può essere sfruttato a
 
 
 
-## ING Form
+## Verbi Modali
 
 
-
-
-
-Note extra per successive sezioni: 
-
-```
-Si tenga sempre a mente la tipica struttura della frase inglese:
-Soggetto + Verbo + complemento oggetto + complemento indiretto
-```
 
