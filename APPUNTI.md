@@ -608,8 +608,6 @@ Esempi:
 
 
 
-
-
 ## Verbi Irregolari
 
 Suddivisi in gruppi per facilitarne la memorizzazione.
@@ -1110,5 +1108,40 @@ Il Present Continuous che ho già trattato in precedenza può essere sfruttato a
 
 ## Verbi Modali
 
+I Verbi Modali esprimono Potere, Volere e Dovere ed hanno le seguenti caratteristiche:
 
+* Servono per supportare/reggere altri verbi in forma base;
+* Non prendono la *-s*, sono identici in tutte le forme;
+* Si comportano come se fossero dei verbi ausiliari, quindi per formare la negativa o interrogativa non sfrutto altri verbi ausiliari;
+* Alcuni tempi verbali non esistono per i verbi modali.
+
+| Must - Mustn't                      | Can - Can't                   | Have/Has to - Don't/Doesn't have to           |
+| ----------------------------------- | ----------------------------- | --------------------------------------------- |
+| I must/mustn't wear goggles         | I can/can't play here         | I have to/don't have to hit the ball          |
+| You must/mustn't wear goggles       | You can/can't play here       | You have to/don't have to hit the ball        |
+| He/She/It must/mustn't wear goggles | He/She/It can/can't play here | He/She/It has to/doesn't have to hit the ball |
+| We must/mustn't wear goggles        | We can/can't play here        | We have to/don't have to hit the ball         |
+| You must/mustn't wear goggles       | You can/can't play here       | You have to/don't have to hit the ball        |
+| They must/mustn't wear goggles      | They can/can't play here      | They have to/don't have to hit the ball       |
+
+**Utilizzi:**
+
+* Quando qualcosa è necessario ed un obbligo, usiamo: *must*, *have to*, *mustn't*;
+* Quando qualcosa è permesso secondo le regole, usiamo: *can*;
+* Quando qualcosa non è necessario (ma permesso o ), usiamo *don't /doesn't have*;
+* Quando qualcosa non è permesso, usiamo: *mustn't/can't*.
+
+Con *mustn't* esprimo una regola di una azione da non fare; con *don't /doesn't have to* un indicazione generica che non avrà probabili conseguente se trasgredita.
+
+**Coniugazione:**
+
+Come in precedenza indicato i verbi modali non hanno tutte le forme verbali, per *Can* sfrutteremo *be able to* e per *Must* sfrutteremo *have to* entrambi correttamente coniugati in base alla forma verbale:
+
+| Forma Verbale   | Can                     | Must                |
+| --------------- | ----------------------- | ------------------- |
+| Present         | Can                     | Must                |
+| Past Simple     | Could                   | I hat to go         |
+| Present Perfect | I have been able to go  | I have had to go    |
+| Future          | I will be able to go    | I will have to go   |
+| Gerundio        | I like being able to go | I hate having to go |
 
