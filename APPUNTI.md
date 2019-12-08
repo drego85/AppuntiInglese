@@ -792,16 +792,24 @@ Il Present Simple si usa per indicare:
 * Quando è presente nella frase un avverbio di frequenza;
 * Verbi che non si possono formare con il gerundio (-ing form).
 
-##### Formazione affermativa
+|                 |                        | Interrogative        |
+| --------------- | ---------------------- | -------------------- |
+| I play          | I don't play           | Do I play?           |
+| You play        | You don't play         | Do you play?         |
+| He/She/It plays | He/She/It doesn't play | Does he/she/it play? |
+| We play         | We don't play          | Do we play?          |
+| You play        | You don't play         | Do you play?         |
+| They play       | They don't play        | Do they play?        |
 
-| Soggetto + Verbo alla forma base (aggiungo *-s* alla terza persona singolare) |
-| ------------------------------------------------------------ |
-| I play                                                       |
-| You play                                                     |
-| He/She/It plays                                              |
-| We play                                                      |
-| You play                                                     |
-| They play                                                    |
+**Formazione affermativa: Soggetto + Verbo alla forma base (aggiungo *-s* alla terza persona singolare)**
+
+**Formazione interrogativa: Did + Soggetto + Verbo alla forma base**
+
+**Formazione negativa: Soggetto + Don't/Doesn't + Verbo alla forma base**
+
+Note:
+
+* Per formare la negativa o l'interrogativa sfruttiamo il verbo To Do come ausiliare, essendo un ausiliare perde completamente il suo significo (fare) originale. 
 
 Note per la terza persona:
 
@@ -820,34 +828,6 @@ Note per la terza persona:
 | To Study | Studies                 |
 | To Play  | Plays                   |
 
-##### Formazione interrogativa
-
-Per formare l'interrogativa sfruttiamo il verbo To Do come ausiliare, essendo un ausiliare perde completamente il suo significo (fare) originale. 
-
-| Do/Does + Soggetto + Verbo alla forma base |
-| ------------------------------------------ |
-| Do I play?                                 |
-| Do you play?                               |
-| Does He/She/It play?                       |
-| Do we play?                                |
-| Do you play?                               |
-| Do they play?                              |
-
-##### Formazione negativa
-
-Per formare la negativa sfruttiamo il verbo To Do come ausiliare, essendo un ausiliare perde completamente il suo significo (fare) originale. 
-
-| Soggetto + Do/Does not + Verbo alla forma base | Soggetto + Don't/Doesn't + Verbo alla forma base |
-| ---------------------------------------------- | ------------------------------------------------ |
-| I do not play                                  | I don't play                                     |
-| You do not play                                | You don't play                                   |
-| He/She/It does not play                        | He/She/It doesn't play                           |
-| We do not play                                 | We don't play                                    |
-| You do not play                                | You don't play                                   |
-| They do not play                               | They don't play                                  |
-
-La forma negativa contratta (colonna di destra) si usa comunemente, la forma negativa estesa si usa invece per scrivere lettere/testi formali.
-
 ## Present Continuos
 
 Il Present Continuos si usa per:
@@ -855,19 +835,24 @@ Il Present Continuos si usa per:
 * Per azioni che si stanno svolgendo nel momento in cui si parla (Es. Sto andando al lavoro);
 * Per azioni che si svolgono in un periodo attuale differentemente dal normale (Es. In questo periodo sto lavorando, ma solitamente studio).
 
-##### Formazione affermativa
+| Affermative          | Negative                | Interrogative         |
+| -------------------- | ----------------------- | --------------------- |
+| I'm playing          | I'm not playing         | I'm playing?          |
+| You are playing      | You aren't playing      | Are you playing?      |
+| He/She/It is playing | He/She/It isn't playing | Is he/she/iy playing? |
+| We are playing       | We aren't playing       | Are we playing?       |
+| You are playing      | You aren't playing      | Are you playing?      |
+| They are playing     | They aren't playing     | Are they playing?     |
 
-| Soggetto + Verbo To Be + Gerundio (-ing form) |
-| --------------------------------------------- |
-| I'm playing                                   |
-| You are playing                               |
-| He/She/It is playing                          |
-| We are playing                                |
-| You are playing                               |
-| They are playing                              |
+**Formazione affermativa: Soggetto + Verbo To Be + Gerundio (-ing form)**
+
+**Formazione interrogativa: Am/Are/Is + Soggetto + Gerundio (-ing form)**
+
+**Formazione negativa: Soggetto + Am/Are/Is + NOT + Gerundio (-ing form)**
 
 Note:
 
+* Per formare la negativa o interrogativa sfruttiamo il verbo To Be come ausiliare, essendo un ausiliare perde completamente il suo significo (essere) originale. 
 * I verbi che hanno una sillaba e finiscono con una consonante, raddoppiano la consonante e aggiungono *-ing* (Es. cut > cutting );
 * I verbi che terminano con una *-e* silente, la *-e* viene eliminata (Es. write > writing);
 * I verbi che terminano in *-y* aggiungono sempre *-ing* senza distinzioni come nel Presente Simple;
@@ -875,34 +860,6 @@ Note:
   * Like/Dislike/Hate;
   * Know/Mean/Understand;
   * Accidentally sense (Es. Involontariamente ho sentito qualcosa).
-
-##### Formazione interrogativa
-
-Per formare l'interrogativa sfruttiamo il verbo To Be come ausiliare, essendo un ausiliare perde completamente il suo significo (essere) originale. 
-
-| Am/Are/Is + Soggetto + Gerundio (-ing form) |
-| ------------------------------------------- |
-| I'm playing?                                |
-| Are you playing?                            |
-| Is He/She/It playing?                       |
-| Are we playing?                             |
-| Are you playing?                            |
-| Are they playing?                           |
-
-##### Formazione negativa
-
-Per formare la negativa sfruttiamo il verbo To Be come ausiliare, essendo un ausiliare perde completamente il suo significo (essere) originale. 
-
-| Soggetto + Am/Are/Is + NOT + Gerundio (-ing form) |
-| ------------------------------------------------- |
-| I'm not playing                                   |
-| You aren't playing                                |
-| He/She/It isn't playing                           |
-| We aren't playing                                 |
-| You aren't playing                                |
-| They aren't playing                               |
-
-
 
 ## Past Simple
 
@@ -919,21 +876,25 @@ Il Past Simple si usa per:
   * From...to;
   * Etc.
 
-##### Formazione affermativa
+| Affermative              | Negative              | Interrogative       |
+| ------------------------ | --------------------- | ------------------- |
+| I walked all day         | I didn't play         | Did I play?         |
+| You walked all day       | You didn't play       | Did you play?       |
+| He/She/It walked all day | He/She/It didn't play | Did he/she/it play? |
+| We walked all day        | We didn't play        | Did we play?        |
+| You walked all day       | You didn't play       | Did you play?       |
+| They walked all day      | They didn't play      | Did they play?      |
 
-Si distingue in base al verbo:
+**Formazione affermativa: Soggetto + Past Simple**
 
-* Regolare: aggiungo *-ed* al verbo. 
-* Irregolare: sfrutto la seconda colonna della tabella in precedenza riportata.
+**Formazione negativa: Soggetto + Didn't + Verbo alla forma base**
 
-| Soggetto + Past Simple   |
-| ------------------------ |
-| I walked all day         |
-| You walked all day       |
-| He/She/It walked all day |
-| We walked all day        |
-| You walked all day       |
-| They walked all day      |
+**Formazione interrogativa: Did + Soggetto + Verbo alla forma base**
+
+Verbo al Past Simple:
+
+* Regolare: aggiungo *-ed* al verbo;
+* Irregolare: sfrutto la seconda colonna della tabella dei verbi irregolari.
 
 Note formazione regolare:
 
@@ -942,31 +903,9 @@ Note formazione regolare:
 * I verbi che terminano per *y* preceduta da una vocale aggiungono semplicemente la *ed*;
 * Il verbo non cambia in base al pronome soggetto.
 
-##### Formazione interrogativa
+Note: 
 
-Per formare l'interrogativa sfruttiamo il verbo To Do al passato come ausiliare, essendo un ausiliare perde completamente il suo significo (fare) originale. A differenza del presente To Do al passato è sempre Did in qualsiasi pronome soggetto. Infine nella forma interrogativa si sfrutta solo la forma base del verbo, la tabella degli irregolari va ignorata.
-
-| Did + Soggetto + Verbo alla forma base |
-| -------------------------------------- |
-| Did I play?                            |
-| Did you play?                          |
-| Did He/She/It play?                    |
-| Did we play?                           |
-| Did you play?                          |
-| Did they play?                         |
-
-##### Formazione negativa
-
-Per formare la negativa sfruttiamo il verbo To Do al passato come ausiliare, essendo un ausiliare perde completamente il suo significo (fare) originale. A differenza del presente To Do al passato è sempre Did in qualsiasi pronome soggetto. Infine nella forma negativa si sfrutta solo la forma base del verbo, la tabella degli irregolari va ignorata.
-
-| Soggetto + Did not + Verbo alla forma base |
-| ------------------------------------------ |
-| I didn't play                              |
-| You didn't play                            |
-| He/She/It didn't play                      |
-| We didn't play                             |
-| You didn't play                            |
-| They didn't play                           |
+* Per formare la negativa o l'interrogativa sfruttiamo il verbo To Do al passato come ausiliare, essendo un ausiliare perde completamente il suo significo (fare) originale. A differenza del presente To Do al passato è sempre Did in qualsiasi pronome soggetto. Infine nella forma negativa si sfrutta solo la forma base del verbo, la tabella degli irregolari va ignorata.
 
 ## Present Perfect
 
@@ -986,21 +925,25 @@ Il Present Perfect si usa per:
   * Today;
   * This week.
 
-##### Formazione affermativa
+| Affermative                    | Negative                          | Interrogative                   |
+| ------------------------------ | --------------------------------- | ------------------------------- |
+| I have found the report        | I haven't found the report        | Have I found the report?        |
+| You have found the report      | You haven't found the report      | Have you found the report?      |
+| He/She/It has found the report | He/She/It hasn't found the report | Has he/she/it found the report? |
+| We have found the report       | We haven't found the report       | Have we found the report?       |
+| You have found the report      | You haven't found the report      | Have you found the report?      |
+| They have found the report     | They haven't found the report     | Have they found the report?     |
 
-Si distingue in base al verbo:
+**Formazione affermativa: Soggetto + Verbo To Have + Past Participle**
 
-* Regolare: Soggetto + Verbo To Have + aggiungo *-ed* al verbo. 
-* Irregolare: Soggetto + Verbo To Have + sfrutto la terza colonna della tabella in precedenza riportata. 
+**Formazione negativa: Soggetto + Have Not + Past Participle**
 
-| Soggetto + Verbo To Have + Past Participle |
-| ------------------------------------------ |
-| I have found the report                    |
-| You have found the report                  |
-| He/She/It has found the report             |
-| We have found the report                   |
-| You have found the report                  |
-| They have found the report                 |
+**Formazione interrogativa: Have/Has + Soggetto + Past Participle**
+
+Verbo al Past Participle:
+
+* Regolare: aggiungo *-ed* al verbo;
+* Irregolare: sfrutto la terza colonna della tabella dei verbi irregolari.
 
 Note formazione regolare:
 
@@ -1008,31 +951,9 @@ Note formazione regolare:
 * I verbi che terminano per *y* preceduta da una consonante sostituiscono la *y* con la *i* e poi aggiungo *ed*;
 * I verbi che terminano per *y* preceduta da una vocale aggiungono semplicemente la *ed*;
 
-##### Formazione interrogativa
+Note:
 
-Per formare l'interrogativa sfruttiamo il verbo *To Have* come ausiliare, essendo un ausiliare perde completamente il suo significo (avere) originale. Infine nella forma interrogativa si sfrutta comunque il verbo alla forma Past Participle.
-
-| Have/Has + Soggetto + Past Participle |
-| ------------------------------------- |
-| Have I found the report?              |
-| Have you found the report?            |
-| Has He/She/It found the report?       |
-| Have we found the report?             |
-| Have you found the report?            |
-| Have they found the report?           |
-
-##### Formazione negativa
-
-Per formare la negativa sfruttiamo il verbo *To Have* come ausiliare, essendo un ausiliare perde completamente il suo significo (avere) originale. Infine nella forma negativa si sfrutta comunque il verbo alla forma Past Participle.
-
-| Soggetto + Have Not + Past Participle |
-| ------------------------------------- |
-| I haven't found the report            |
-| You haven't found the report          |
-| He/She/It hasn't found the report     |
-| We haven't found the report           |
-| You haven't found the report          |
-| They haven't found the report         |
+* Per formare la negativa o l'interrogativa sfruttiamo il verbo *To Have* come ausiliare, essendo un ausiliare perde completamente il suo significo (avere) originale. Infine nella forma negativa si sfrutta comunque il verbo alla forma Past Participle.
 
 
 
@@ -1043,19 +964,24 @@ Il Past Continuous si usa per indicare:
 * Una azione o situazione in corso in un particolare momento del passato (Es. Paolo stava guardando la TV);
 * Il background di una storia (Es. Il telefono squillò mentre stavo parlando con Paolo - "mentre stavo parlando con Paolo" è il backgroud)
 
-##### Formazione affermativa
+| Affermative                     | Negative                           | Interrogative                    |
+| ------------------------------- | ---------------------------------- | -------------------------------- |
+| I was talking with Paul         | I wasn't talking with Paul         | Was I talking with Paul?         |
+| You were talking with Paul      | You weren't talking with Paul      | Were you talking with Paul?      |
+| He/She/It was talking with Paul | He/She/It wasn't talking with Paul | Was he/she/it talking with Paul? |
+| We were talking with Paul       | We weren't talking with Paul       | Were we talking with Paul?       |
+| You were talking with Paul      | You weren't talking with Paul      | Were you talking with Paul?      |
+| They were talking with Paul     | They weren't talking with Paul     | Were they talking with Paul?     |
 
-| Soggetto + Verbo To Be al Past Simple + Gerundio (-ing form) |
-| ------------------------------------------------------------ |
-| I was talking with Paul                                      |
-| You were talking with Paul                                   |
-| He/She/It was talking with Paul                              |
-| We were talking with Paul                                    |
-| You were talking with Paul                                   |
-| They were talking with Paul                                  |
+**Formazione affermativa: Soggetto + Verbo To Be al Past Simple + Gerundio (-ing form)**
+
+**Formazione negativa: Verbo To Be al Past Simple + Soggetto + Gerundio (-ing form)**
+
+**Formazione interrogativa: Soggetto + Verbo To Be al Past Simple + Gerundio (-ing form)**
 
 Note:
 
+* Per formare la negativa o l'interrogativa sfruttiamo il verbo To Be al past simple come ausiliare, essendo un ausiliare perde completamente il suo significo  (essere) originale.
 * I verbi che hanno una sillaba e finiscono con una consonante, raddoppiano la consonante e aggiungono *-ing* (Es. cut > cutting );
 * I verbi che terminano con una *-e* silente, la *-e* viene eliminata (Es. write > writing);
 * I verbi che terminano in *-y* aggiungono sempre *-ing* senza distinzioni come nel Presente Simple;
@@ -1063,32 +989,6 @@ Note:
   * Like/Dislike/Hate;
   * Know/Mean/Understand;
   * Accidentally sense (Es. Involontariamente ho sentito qualcosa).
-
-##### Formazione interrogativa
-
-Per formare l'interrogativa sfruttiamo il verbo To Be al past simple come ausiliare, essendo un ausiliare perde completamente il suo significo (essere) originale. 
-
-| Soggetto + Verbo To Be al Past Simple + Gerundio (-ing form) |
-| ------------------------------------------------------------ |
-| Was I talking with Paul?                                     |
-| Were you talking with Paul?                                  |
-| Was He/She/It talking with Paul?                             |
-| Were we talking with Paul?                                   |
-| Were you talking with Paul?                                  |
-| Were they talking with Paul?                                 |
-
-##### Formazione negativa
-
-Per formare la negativa sfruttiamo il verbo To Be al past simple come ausiliare, essendo un ausiliare perde completamente il suo significo (essere) originale. 
-
-| Verbo To Be al Past Simple + Soggetto + Gerundio (-ing form) |
-| ------------------------------------------------------------ |
-| I wasn't talking with Paul                                   |
-| You weren't talking with Paul                                |
-| He/She/It wasn't talking with Paul                           |
-| We weren't talking with Paul                                 |
-| You weren't talking with Paul                                |
-| They weren't talking with Paul                               |
 
 ##### 
 
@@ -1109,10 +1009,14 @@ Il Past Perfect si usa per indicare:
 
 **Formazione affermativa: Soggetto + Verbo To Have al Past Simple + Past Participle**
 
-Si distingue in base al verbo:
+**Formazione negativa: Soggetto + Did not + Verbo alla forma base**
 
-* Regolare: aggiungo *-ed* al verbo. 
-* Irregolare: sfrutto la terza colonna della tabella in precedenza riportata.
+**Formazione interrogativa: Verbo To Have al Past Simple + Soggetto + Past Participle**
+
+* Verbo al Past Participle:
+
+  * Regolare: aggiungo *-ed* al verbo;
+  * Irregolare: sfrutto la terza colonna della tabella dei verbi irregolari.
 
 Note formazione regolare:
 
@@ -1121,15 +1025,11 @@ Note formazione regolare:
 * I verbi che terminano per *y* preceduta da una vocale aggiungono semplicemente la *ed*;
 * Il verbo non cambia in base al pronome soggetto.
 
-##### Formazione interrogativa: Verbo To Have al Past Simple + Soggetto + Past Participle
+Note:
 
-Per formare l'interrogativa sfruttiamo il verbo To Have al Past Simple come ausiliare, essendo un ausiliare perde completamente il suo significo (avere) originale.
+* Per formare la negativa o l'interrogativa sfruttiamo il verbo To Have al Past Simple come ausiliare, essendo un ausiliare perde completamente il suo significo (avere) originale.
 
-##### Formazione negativa: Soggetto + Did not + Verbo alla forma base
-
-Per formare l'interrogativa sfruttiamo il verbo To Have al Past Simple come ausiliare, essendo un ausiliare perde completamente il suo significo (avere) originale.
-
-
+  
 
 ## Future Forms: Will
 
