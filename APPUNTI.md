@@ -1098,21 +1098,23 @@ Il Past Perfect si usa per indicare:
 
 * Un azione passata rispetto ad una azione anche essa passata, ovvero un trapassato (Es. Avevo visitato Roma due volte prima di andare a Venezia).
 
-##### Formazione affermativa
+| Affermative               | Negative                     | Interrogative              |
+| ------------------------- | ---------------------------- | -------------------------- |
+| I had worked hard         | I hand't worked hard         | Had I worked hard?         |
+| You had worked hard       | You hand't worked hard       | Had you worked hard?       |
+| He/She/It had worked hard | He/She/It hand't worked hard | Had he/she/it worked hard? |
+| We had worked hard        | We hand't worked hard        | Had we worked hard?        |
+| You had worked hard       | You hand't worked hard       | Had you worked hard?       |
+| They had worked hard      | They hand't worked hard      | Did they worked hard?      |
+
+##### Formazione affermativa: Soggetto + Verbo To Have al Past Simple + Past Participle
 
 Si distingue in base al verbo:
 
 * Regolare: aggiungo *-ed* al verbo. 
 * Irregolare: sfrutto la terza colonna della tabella in precedenza riportata.
 
-| Soggetto + Verbo To Have al Past Simple + Past Participle |
-| --------------------------------------------------------- |
-| I had worked hard                                         |
-| You had worked hard                                       |
-| He/She/It had worked hard                                 |
-| We had worked hard                                        |
-| You had worked hard                                       |
-| They had worked hard                                      |
+
 
 Note formazione regolare:
 
@@ -1121,43 +1123,66 @@ Note formazione regolare:
 * I verbi che terminano per *y* preceduta da una vocale aggiungono semplicemente la *ed*;
 * Il verbo non cambia in base al pronome soggetto.
 
-##### Formazione interrogativa
+##### Formazione interrogativa: Verbo To Have al Past Simple + Soggetto + Past Participle
 
 Per formare l'interrogativa sfruttiamo il verbo To Have al Past Simple come ausiliare, essendo un ausiliare perde completamente il suo significo (avere) originale.
 
-| Verbo To Have al Past Simple + Soggetto + Past Participle |
-| --------------------------------------------------------- |
-| Had I worked hard?                                        |
-| Had you worked hard?                                      |
-| Had He/She/It worked hard?                                |
-| Had we worked hard?                                       |
-| Had you worked hard?                                      |
-| Did they worked hard?                                     |
-
-##### Formazione negativa
+##### Formazione negativa: Soggetto + Did not + Verbo alla forma base
 
 Per formare l'interrogativa sfruttiamo il verbo To Have al Past Simple come ausiliare, essendo un ausiliare perde completamente il suo significo (avere) originale.
 
-| Soggetto + Did not + Verbo alla forma base |
-| ------------------------------------------ |
-| I hand't worked hard                       |
-| You hand't worked hard                     |
-| He/She/It hand't worked hard               |
-| We hand't worked hard                      |
-| You hand't worked hard                     |
-| They hand't worked hard                    |
-
-## 
 
 
+## Future Forms: Will
+
+La forma Will del futuro si usa per indicare:
+
+* Decisioni future prese sul momento (Es. C'è traffico, arriverò tardi)
+* Decisione future prese sul momento e molto prossime (Es. Vado ad aprire la finestra)
+* Previsioni/Predizioni. 
+
+Formazione: 
+
+| Affermative                       | Negative                      | Interrogative                |
+| --------------------------------- | ----------------------------- | ---------------------------- |
+| I'll (will) home later            | I won't go home later         | Will I go home later?        |
+| You'll (will) go home later       | You won't go home later       | Will You go home later?      |
+| He/She/It'll (will) go home later | He/She/It won't go home later | WillHe/She/It go home later? |
+| We'll (will) go home later        | We won't go home later        | Will We go home later?       |
+| You'll (will) go home later       | You won't go home later       | Will You go home later?      |
+| They'll (will) go home later      | They won't go home later      | Will They go home later?     |
+
+Note:
+
+* La pronuncia di "won't" è molto similare a "want" sarà il contesto ad aiutarci nella distinzione;
 
 
 
-## Future Forms
+## Future Forms: Be Going To
+
+La forma Be Going To si usa per indicare:
+
+* Decisione future già programmate (Es. L'anno prossimo andrò in vacanza in Sicilia)
+
+Formazione:
+
+| Affermative                            | Negative                                   | Interrogative                            |
+| -------------------------------------- | ------------------------------------------ | ---------------------------------------- |
+| I'm going to come to the party         | I'm not going to come to the party         | Am I going to come to the party?         |
+| You're going to come to the party      | You aren't going to come to the party      | Are you going to come to the party?      |
+| He/She/It's going to come to the party | He/She/It isn't going to come to the party | Is He/She/It going to come to the party? |
+| We're going to come to the party       | We aren't going to come to the party       | Are we going to come to the party?       |
+| You're going to come to the party      | You aren't going to come to the party      | Are you going to come to the party?      |
+| They're going to come to the party     | They aren't going to come to the party     | Are they going to come to the party?     |
 
 
 
+## Future Forms: Present Continuous
 
+Il Present Continuous che ho già trattato in precedenza può essere sfruttato anche per indicare azioni future, nel dettaglio:
+
+* Indicare un accordo con altre persone in un determinato momento nel futuro (Es. Parto per la festa alle cinque.)
+* Con i verbi *go* e *come* (Es. I'm going to the parade later - He's coming to festival with us)
 
 
 
