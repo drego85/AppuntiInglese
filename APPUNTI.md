@@ -801,7 +801,7 @@ Il Present Simple si usa per indicare:
 
 **Formazione affermativa: Soggetto + Verbo alla forma base (aggiungo *-s* alla terza persona singolare)**
 
-**Formazione interrogativa: Did + Soggetto + Verbo alla forma base**
+**Formazione interrogativa: Do/Does + Soggetto + Verbo alla forma base**
 
 **Formazione negativa: Soggetto + Don't/Doesn't + Verbo alla forma base**
 
