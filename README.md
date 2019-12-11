@@ -55,9 +55,9 @@ Appunti di Inglese scritti durante il mio percorso di apprendimento di questa li
 
 * [Superlativi](./APPUNTI.md#superlativi)
 
-* [Wh- Questions](./APPUNTI.md#)
+* [Wh- Questions](./APPUNTI.md#wh--questions)
 
-* [Aggettivi -ing e -ed](./APPUNTI.md#)
+* [Aggettivi -ing e -ed](./APPUNTI.md#aggettivi--ing-e--ed)
 
 * [Verbi Irregolari](./APPUNTI.md#verbi-irregolari)
 
@@ -68,12 +68,16 @@ Appunti di Inglese scritti durante il mio percorso di apprendimento di questa li
   * [Past Continuous](./APPUNTI.md#past-continuous)
   * [Present Perfect](./APPUNTI.md#present-perfect)
   * [Past Perfect](./APPUNTI.md#past-perfect)
-  * [Future Form: Will]
-  * [Future Form: Be Going To]
-  * [Future Form: Present Continuous]
-  * [ING Form]
+  * [Future Form: Will](./APPUNTI.md#future-form-will)
+  * [Future Form: Be Going To](./APPUNTI.md#future-forms-be-going-to)
+  * [Future Form: Present Continuous](./APPUNTI.md#future-forms-present-continuous)
+  * [ING Form](./APPUNTI.md#ing-form)
   
-* [Verbi Modali]
+* [Verbi Modali](./APPUNTI.md#verbi-modali)
+
+* IF Clause
+
+* Reported Speech
 
   
 
