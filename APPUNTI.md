@@ -154,45 +154,6 @@ Note:
 
 
 
-## Pronomi Personali
-
-In inglese, come nelle altre lingue, ci sono due tipologie di pronomi personali:
-
-- **Soggetto**: sono coloro che compiono l’azione;
-- **Complemento**: sono coloro che ricevono l’azione compiuta da un pronome soggetto.
-
-| Italiano | Soggetto | Italiano  | Complemento |
-| -------- | -------- | --------- | ----------- |
-| Io       | I        | Me/Mi     | Me          |
-| Tu       | You      | Te/Ti     | You         |
-| Egli     | He       | Lui       | Him         |
-| Ella     | She      | Lei       | Her         |
-| Esso/a   | It       |           | It          |
-| Noi      | We       | Noi/Ci    | Us          |
-| Voi      | You      | Voi/Vi    | You         |
-| Essi     | They     | Essi/Loro | Them        |
-
-Note:
-
-* Il pronome personale complemento segue sempre la preposizione o il verbo da cui dipende. (Es. *I love her*);
-* Il pronome personale complemento può essere usato come complemento oggetto, direttamente dopo il verbo, o come complemento indiretto dopo una preposizione:
-  * Complemento oggetto: *I know her*;
-  * Complemento indiretto: *They are here with us*.
-
-
-
-Esempi:
-
-- She speaks to him; *She (pronome soggetto) - Him (pronome complemento)*
-- You love me; *You (pronome soggetto) - Me (Pronome complemento)*
-- Hi Tom. Nice to see you;
-- How often does your mother tell you to do your homework?;
-- I can see him now; (complemento di un verbo)
-- Tell me what happened; (complemento di termine)
-- I went on vacation with the. (complemento indiretto)
-
-
-
 ## Plurale
 
 In Inglese il plurale dei sostantivi si forma, di norma, aggiungendo una “s" al sostantivo. 
@@ -327,36 +288,42 @@ Vediamo come inizialmente i tre personaggi sono stati introdotti usando l'artico
 
 
 
-## Aggettivi Possessivi
+## Pronomi Personali
 
-| Italiano                        | Inglese |
-| ------------------------------- | ------- |
-| Mio, Mia, Miei, Mie             | My      |
-| Tuo ,Tua, Tuoi, Tue             | Your    |
-| Suo, Sua, Suoi, Sue (di Lui)    | His     |
-| Suo, Sua, Suoi, Sue (di Lei)    | Her     |
-| Suo, Sua, Suoi, Sue (di Esso/a) | Its     |
-| Nostro, Nostra, Nostri, Nostre  | Our     |
-| Vostro, Vostra, Vostri, Vostre  | Your    |
-| Loro                            | Their   |
+In inglese, come nelle altre lingue, ci sono due tipologie di pronomi personali:
+
+- **Soggetto**: sono coloro che compiono l’azione;
+- **Complemento**: sono coloro che ricevono l’azione compiuta da un pronome soggetto.
+
+| Italiano | Soggetto | Italiano  | Complemento |
+| -------- | -------- | --------- | ----------- |
+| Io       | I        | Me/Mi     | Me          |
+| Tu       | You      | Te/Ti     | You         |
+| Egli     | He       | Lui       | Him         |
+| Ella     | She      | Lei       | Her         |
+| Esso/a   | It       |           | It          |
+| Noi      | We       | Noi/Ci    | Us          |
+| Voi      | You      | Voi/Vi    | You         |
+| Essi     | They     | Essi/Loro | Them        |
 
 Note:
 
-* Non si mette l’articolo determinativo davanti all’aggettivo possessivo (Es. *~~The~~* *my books*);
-* Non vi una forma distinta per il singolare e il plurale (Es. *my cat* - *my cats*).
+* Il pronome personale complemento segue sempre la preposizione o il verbo da cui dipende. (Es. *I love her*);
+* Il pronome personale complemento può essere usato come complemento oggetto, direttamente dopo il verbo, o come complemento indiretto dopo una preposizione:
+  * Complemento oggetto: *I know her*;
+  * Complemento indiretto: *They are here with us*.
 
 
 
-## Aggettivi Dimostrativi
+Esempi:
 
-Gli aggettivi dimostrativi servono ad indicare una persona, un animale o una cosa lontano o vicino a chi parla. 
-
-| Indica     | Italiano                         | Inglese | Avverbio di Lugo Associato |
-| ---------- | -------------------------------- | ------- | -------------------------- |
-| Vicinanza  | Questo - Questa (singolare)      | This    | Here                       |
-| Vicinanza  | Questi - Queste (plurale)        | These   | Here                       |
-| Lontananza | Quel - Quello (singolare)        | That    | There                      |
-| Lontananza | Quegli - Quei - Quelle (plurale) | Those   | There                      |
+- She speaks to him; *She (pronome soggetto) - Him (pronome complemento)*
+- You love me; *You (pronome soggetto) - Me (Pronome complemento)*
+- Hi Tom. Nice to see you;
+- How often does your mother tell you to do your homework?;
+- I can see him now; (complemento di un verbo)
+- Tell me what happened; (complemento di termine)
+- I went on vacation with the. (complemento indiretto)
 
 
 
@@ -398,6 +365,67 @@ Il pronome *yours* ha sostituto il sostantivo ripetuto di “books”.
 | This is their house | This house is theirs |
 
 
+
+## Pronomi Indefiniti
+
+I pronomi indefiniti indicano un insieme di persone, di oggetti o un luogo in modo, appunto, indefinito. 
+
+Gli indefiniti corrispondono in italiano ad esempio a: *nessuno*, niente, *qualcosa*, *qualcuno* ma anche ovunque, *da qualche parte*, *da nessuna parte*. 
+
+I pronomi indefiniti si formano con l’unione di un prefisso, che indica la quantità e di un prefisso che indica se ci si riferisce alle persone (*-body/-one*), oggetti o azioni (*-thing*) oppure ai luoghi (*-where*).
+
+|            | -thing (oggetti/azioni) | -where (luoghi) | -one (persone) | -body (persone) |
+| ---------- | ----------------------- | --------------- | -------------- | --------------- |
+| **any-**   | anything                | anywhere        | anyone         | anybody         |
+| **every-** | everything              | everywhere      | everyone       | everybody       |
+| **no-**    | nothing                 | nowhere         | no one         | nobody          |
+| **some-**  | something               | somewhere       | someone        | somebody        |
+
+Esempi:
+
+* I'm looking for something to eat;
+* Everything is fascinating on this trip;
+* I haven't got anywhere to go;
+* There wasn't anything to do;
+* There isn't anywhere to sit;
+* There is nowhere to sit;
+* Have you visited anywhere interesting today?
+* There is no one on the island;
+* The is nobody on the island;
+* Lucy discovered somewhere beautiful on holiday.
+
+
+
+## Aggettivi Possessivi
+
+| Italiano                        | Inglese |
+| ------------------------------- | ------- |
+| Mio, Mia, Miei, Mie             | My      |
+| Tuo ,Tua, Tuoi, Tue             | Your    |
+| Suo, Sua, Suoi, Sue (di Lui)    | His     |
+| Suo, Sua, Suoi, Sue (di Lei)    | Her     |
+| Suo, Sua, Suoi, Sue (di Esso/a) | Its     |
+| Nostro, Nostra, Nostri, Nostre  | Our     |
+| Vostro, Vostra, Vostri, Vostre  | Your    |
+| Loro                            | Their   |
+
+Note:
+
+* Non si mette l’articolo determinativo davanti all’aggettivo possessivo (Es. *~~The~~* *my books*);
+* Non vi è una forma distinta per il singolare e il plurale (Es. *my cat* - *my cats*).
+
+
+
+## Aggettivi Dimostrativi
+
+Gli aggettivi dimostrativi servono ad indicare una persona, un animale o una cosa lontano o vicino a chi parla. 
+
+| Inglese | Italiano                         | Indica     | Avverbio di Lugo Associato |
+| ------- | -------------------------------- | ---------- | -------------------------- |
+| This    | Questo/a (singolare)             | Vicinanza  | Here                       |
+| These   | Questi/e (plurale)               | Vicinanza  | Here                       |
+| That    | Quel - Quello (singolare)        | Lontananza | There                      |
+| Those   | Quegli - Quei - Quelle (plurale) | Lontananza | There                      |
 
 
 
@@ -500,23 +528,7 @@ Note:
 
 
 
-## Pronomi Indefiniti
-
-I pronomi indefiniti indicano un insieme di persone, di oggetti o un luogo in modo, appunto, indefinito. 
-
-Gli indefiniti corrispondono in italiano ad esempio a: *nessuno*, niente, *qualcosa*, *qualcuno* ma anche ovunque, *da qualche parte*, *da nessuna parte*. 
-
-I pronomi indefiniti si formano con l’unione di un prefisso, che indica la quantità e di un prefisso che indica se ci si riferisce alle persone (*-body/-one*), cose(*-thing*) oppure ai luoghi (*-where*).
-
-|                 | EVERY-                   | SOME-                    | ANY-                | NO-                |
-| --------------- | ------------------------ | ------------------------ | ------------------- | ------------------ |
-| -BODY<br />-ONE | EVERYBODY <br />EVERYONE | SOMEBODY<br />   SOMEONE | ANYBODY<br />ANYONE | NOBODY<br />NO ONE |
-| -THING          | EVERYTHING               | SOMETHING                | ANYTHING            | NOTHING            |
-| -WHERE          | EVERYWHERE               | SOMEWHERE                | ANYWHERE            | NOWHERE            |
-
-
-
-## Sostantivi Numerabili e Non numerabili
+## Sostantivi Numerabili e Non Numerabili
 
 In Inglese, come in ogni altra lingua, esistono sostantivi numerabile e non e si distinguono principalmente dalle seguenti caratteristiche:
 
@@ -709,7 +721,7 @@ Esempi:
 
 
 
-## WH- Questions
+## Wh- Questions
 
 | Inglese | Italiano | Esempio                |
 | ------- | -------- | ---------------------- |
@@ -1184,7 +1196,7 @@ Note:
 
   
 
-## Future Forms: Will
+## Future Form: Will
 
 La forma Will del futuro si usa per indicare:
 
