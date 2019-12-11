@@ -608,6 +608,147 @@ Esempi:
 
 
 
+## Comparativi
+
+I comparativi mettono a confronto due soggetti e possono essere di Maggioranza, Uguaglianza o Minoranza.
+
+#### Maggioranza
+
+Formazione:
+
+* Aggettivo è plurisillabico: 1° soggetto + verbo  + *MORE* + aggettivo + *THAN* + 2° soggetto
+* Aggettivo è monosillabico: 1° soggetto + verbo  + aggettivo + *-ER* + *THAN* + 2° soggetto
+
+Esempi:
+
+* Paul is more beautiful than Mark
+* Paul is smarter than Mark.
+
+Note:
+
+* Per aggettivi monosillabici regolari aggiungiamo *-er*;
+* Per aggettivi che terminano in *-e* aggiungiamo *-r* (Es. large > larger);
+* Per aggettivi che terminano in *-y* sostituiamo la *-y* con la *-i* e aggiungiamo *-er* (Es. happy > happier);
+* Per aggettivi che terminano in consonante-vocale-consonante rendiamo doppia l'ultima consonante e aggiungiamo *-er* (Es. big > bigger).
+
+Comparativi Irregolari:
+
+| Aggettivo | Comparativo irregolari |
+| --------- | ---------------------- |
+| Good      | Better                 |
+| Bad       | Worse                  |
+| Far       | Further - Father       |
+
+#### Uguaglianza
+
+Formazione: 1° soggetto + verbo  + *AS* + aggettivo + *AS* + 2° soggetto
+
+Esempi:
+
+* Paul is not as clever as Anna;
+* Robbie is as tall as his brother.
+
+#### Minoranza
+
+Formazione: 1° soggetto + verbo + LESS + aggettivo + THAN + 2° soggetto
+
+
+
+## Superlativi
+
+I superlativi non mettono a confronto due elementi, come i comparativi, ma vi è solamente un elemento come soggetto principale della frase che può essere assoluto o eventualmente il superlativo di un gruppo.
+
+#### Maggioranza
+
+Formazione :
+
+* Aggettivo è plurisillabico: 1° soggetto + verbo + *THE MOST* + aggettivo [+ *OF/IN THE* + gruppo]
+* Aggettivo è monosillabico: 1° soggetto + verbo + *THE* + aggettivo + *-EST* [+ *OF/IN THE* + gruppo]
+
+La parte tra parentesi quadre è opzionale, solamente se il soggetto è confrontato con un gruppo. Sfrutteremo:
+
+* IN: per luoghi, organizzazioni, gruppi;
+* OF: periodi di tempo.
+
+Esempi:
+
+* This car is the most expansive;
+* This car is the cheapest;
+* Paul is the most beautiful in the class;
+* Paul is the smartest in the class.
+
+Note:
+
+* Per aggettivi monosillabici regolari aggiungiamo *-es*t;
+* Per aggettivi che terminano in *-e* aggiungiamo *-st* (Es. large > largest);
+* Per aggettivi che terminano in *-y* sostituiamo la *-y* con la *-i* e aggiungiamo *-est* (Es. happy > happiest);
+* Per aggettivi che terminano in consonante-vocale-consonante rendiamo doppia l'ultima consonante e aggiungiamo *-est* (Es. big > biggest).
+
+Superlativi Irregolari:
+
+| Aggettivo | Comparativo irregolari |
+| --------- | ---------------------- |
+| Good      | Best                   |
+| Bad       | Worst                  |
+| Far       | Furthest               |
+
+#### Minoranza
+
+Formazione:
+
+* Soggetto + verbo + *THE LEAST* + aggettivo [+ *OF/IN THE* + gruppo]
+
+La parte tra parentesi quadre è opzionale, solamente se il soggetto è confrontato con un gruppo. Sfrutteremo:
+
+* IN: per luoghi, organizzazioni, gruppi;
+* OF: periodi di tempo.
+
+Esempi:
+
+* Paul is the least beautiful in the class.
+
+
+
+## WH- Questions
+
+| Inglese | Italiano | Esempio                |
+| ------- | -------- | ---------------------- |
+| Who?    | Chi?     | Who are you?           |
+| What?   | Cosa?    | What do you like?      |
+| When?   | Quando?  | When is your birthday? |
+| Why?    | Perchè?  | Why are you happy?     |
+| Where   | Dove?    | Where do you go?       |
+
+
+
+## Aggettivi -ING e -ED
+
+Vi sono molti aggettivi che derivano da forme verbali, usualmente terminano in *-ing* o *-ed* e si usano:
+
+* *-ed*: per indicare come una persona si sente;
+* *-ing*: per descrivere un luogo, una persona o una cosa.
+
+Esempi:
+
+* They were amazed by the quality of the photos;
+* He was excited to see his friends;
+* London is an exciting city;
+* Digital cameras are amazing inventions.
+
+Note:
+
+* L'aggettivo -ed spesso vine seguita da preposizioni:
+  * Amazed by;
+  * Annoyed with;
+  * Bored with;
+  * Excited about;
+  * Fascinated by;
+  * Interested in;
+  * Tired of;
+  * Worried about.
+
+
+
 ## Verbi Irregolari
 
 Suddivisi in gruppi per facilitarne la memorizzazione.
@@ -801,9 +942,11 @@ Il Present Simple si usa per indicare:
 
 **Formazione affermativa: Soggetto + Verbo alla forma base (aggiungo *-s* alla terza persona singolare)**
 
+**Formazione negativa: Soggetto + Don't/Doesn't + Verbo alla forma base**
+
 **Formazione interrogativa: Do/Does + Soggetto + Verbo alla forma base**
 
-**Formazione negativa: Soggetto + Don't/Doesn't + Verbo alla forma base**
+
 
 Note:
 
@@ -825,61 +968,6 @@ Note per la terza persona:
 | Buzz     | Buzzes                  |
 | To Study | Studies                 |
 | To Play  | Plays                   |
-
-## Present Continuos
-
-Il Present Continuos si usa per:
-
-* Per azioni che si stanno svolgendo nel momento in cui si parla (Es. Sto andando al lavoro);
-* Per azioni che si svolgono in un periodo attuale differentemente dal normale (Es. In questo periodo sto lavorando, ma solitamente studio).
-
-| Affermative          | Negative                | Interrogative         |
-| -------------------- | ----------------------- | --------------------- |
-| I'm playing          | I'm not playing         | I'm playing?          |
-| You are playing      | You aren't playing      | Are you playing?      |
-| He/She/It is playing | He/She/It isn't playing | Is he/she/iy playing? |
-| We are playing       | We aren't playing       | Are we playing?       |
-| You are playing      | You aren't playing      | Are you playing?      |
-| They are playing     | They aren't playing     | Are they playing?     |
-
-**Formazione affermativa: Soggetto + Verbo To Be + Gerundio (-ing form)**
-
-**Formazione interrogativa: Am/Are/Is + Soggetto + Gerundio (-ing form)**
-
-**Formazione negativa: Soggetto + Am/Are/Is + NOT + Gerundio (-ing form)**
-
-Note:
-
-* Per formare la negativa o interrogativa sfruttiamo il verbo To Be come ausiliare, essendo un ausiliare perde completamente il suo significo (essere) originale. 
-
-* I verbi che hanno una sillaba e finiscono con una consonante, raddoppiano la consonante e aggiungono *-ing* (Es. cut > cutting );
-
-* I verbi che terminano con una *-e* silente, la *-e* viene eliminata (Es. write > writing);
-
-* I verbi che terminano in *-y* aggiungono sempre *-ing* senza distinzioni come nel Presente Simple;
-
-* Alcuni verbi NON possono essere coniugati al gerundio e sono le seguenti categorie:
-
-  * Like/Dislike/Hate;
-  * Know/Mean/Understand;
-  * Accidentally sense (Es. Involontariamente ho sentito qualcosa).
-
-  
-
-## ING Form
-
-La ING Form si usa per:
-
-* Quando il verbo è il soggetto della frase (Es. Eating a lot of fruit is important.);
-* Dopo verbi come:
-  * Like - Don't Like;
-  * Love;
-  * Enjoy;
-  * Prefer;
-  * Hate;
-  * Can't stand;
-  * Mind.
-* Dopo una preposizione (Es. I'm very good at playing tennis)
 
 
 
@@ -929,53 +1017,46 @@ Note:
 
 * Per formare la negativa o l'interrogativa sfruttiamo il verbo To Do al passato come ausiliare, essendo un ausiliare perde completamente il suo significo (fare) originale. A differenza del presente To Do al passato è sempre Did in qualsiasi pronome soggetto. Infine nella forma negativa si sfrutta solo la forma base del verbo, la tabella degli irregolari va ignorata.
 
-## Present Perfect
 
-Il Present Perfect si usa per:
 
-* Per azioni iniziate nel passato ma che continuano nel presente o sono ancora vere (Es. Lavoro da 10anni e sto ancora lavorando - Marco vive a Parigi);
-* Per azioni iniziate nel passato e hanno conseguenze nel presente; 
-* Per azioni compiute nel passato ma non sappiamo esattamente quando;
-* In presenza di alcuni indicatori temporali:
-  * Just (appena);
-  * Already (già);
-  * Yet (ancora);
-  * For (solo esclusivamente l'azione è ancora in corso);
-  * Since (da un determinato momento in poi...);
-  * Recently;
-  * Ever;
-  * Today;
-  * This week.
+## Present Continuos
 
-| Affermative                    | Negative                          | Interrogative                   |
-| ------------------------------ | --------------------------------- | ------------------------------- |
-| I have found the report        | I haven't found the report        | Have I found the report?        |
-| You have found the report      | You haven't found the report      | Have you found the report?      |
-| He/She/It has found the report | He/She/It hasn't found the report | Has he/she/it found the report? |
-| We have found the report       | We haven't found the report       | Have we found the report?       |
-| You have found the report      | You haven't found the report      | Have you found the report?      |
-| They have found the report     | They haven't found the report     | Have they found the report?     |
+Il Present Continuos si usa per:
 
-**Formazione affermativa: Soggetto + Verbo To Have + Past Participle**
+* Per azioni che si stanno svolgendo nel momento in cui si parla (Es. Sto andando al lavoro);
+* Per azioni che si svolgono in un periodo attuale differentemente dal normale (Es. In questo periodo sto lavorando, ma solitamente studio).
 
-**Formazione negativa: Soggetto + Have Not + Past Participle**
+| Affermative          | Negative                | Interrogative         |
+| -------------------- | ----------------------- | --------------------- |
+| I'm playing          | I'm not playing         | I'm playing?          |
+| You are playing      | You aren't playing      | Are you playing?      |
+| He/She/It is playing | He/She/It isn't playing | Is he/she/iy playing? |
+| We are playing       | We aren't playing       | Are we playing?       |
+| You are playing      | You aren't playing      | Are you playing?      |
+| They are playing     | They aren't playing     | Are they playing?     |
 
-**Formazione interrogativa: Have/Has + Soggetto + Past Participle**
+**Formazione affermativa: Soggetto + Verbo To Be + Gerundio (-ing form)**
 
-Verbo al Past Participle:
+**Formazione negativa: Soggetto + Am/Are/Is + NOT + Gerundio (-ing form)**
 
-* Regolare: aggiungo *-ed* al verbo;
-* Irregolare: sfrutto la terza colonna della tabella dei verbi irregolari.
-
-Note formazione regolare:
-
-* La *e* di *-ed* è silente, tranne se il verbo finisce con *t* o *d* (Es. started).
-* I verbi che terminano per *y* preceduta da una consonante sostituiscono la *y* con la *i* e poi aggiungo *ed*;
-* I verbi che terminano per *y* preceduta da una vocale aggiungono semplicemente la *ed*;
+**Formazione interrogativa: Am/Are/Is + Soggetto + Gerundio (-ing form)**
 
 Note:
 
-* Per formare la negativa o l'interrogativa sfruttiamo il verbo *To Have* come ausiliare, essendo un ausiliare perde completamente il suo significo (avere) originale. Infine nella forma negativa si sfrutta comunque il verbo alla forma Past Participle.
+* Per formare la negativa o interrogativa sfruttiamo il verbo To Be come ausiliare, essendo un ausiliare perde completamente il suo significo (essere) originale. 
+
+* I verbi che hanno una sillaba e finiscono con una consonante, raddoppiano la consonante e aggiungono *-ing* (Es. cut > cutting );
+
+* I verbi che terminano con una *-e* silente, la *-e* viene eliminata (Es. write > writing);
+
+* I verbi che terminano in *-y* aggiungono sempre *-ing* senza distinzioni come nel Presente Simple;
+
+* Alcuni verbi NON possono essere coniugati al gerundio e sono le seguenti categorie:
+
+  * Like/Dislike/Hate;
+  * Know/Mean/Understand;
+  * Accidentally sense (Es. Involontariamente ho sentito qualcosa).
+
 
 
 
@@ -1014,6 +1095,56 @@ Note:
 
 ##### 
 
+## Present Perfect
+
+Il Present Perfect si usa per:
+
+* Per azioni iniziate nel passato ma che continuano nel presente o sono ancora vere (Es. Lavoro da 10anni e sto ancora lavorando - Marco vive a Parigi);
+* Per azioni iniziate nel passato e hanno conseguenze nel presente; 
+* Per azioni compiute nel passato ma non sappiamo esattamente quando;
+* In presenza di alcuni indicatori temporali:
+  * Just (appena);
+  * Already (già);
+  * Yet (ancora);
+  * For (solo esclusivamente l'azione è ancora in corso);
+  * Since (da un determinato momento in poi...);
+  * Recently;
+  * Ever;
+  * Today;
+  * This week.
+
+| Affermative                    | Negative                          | Interrogative                   |
+| ------------------------------ | --------------------------------- | ------------------------------- |
+| I have found the report        | I haven't found the report        | Have I found the report?        |
+| You have found the report      | You haven't found the report      | Have you found the report?      |
+| He/She/It has found the report | He/She/It hasn't found the report | Has he/she/it found the report? |
+| We have found the report       | We haven't found the report       | Have we found the report?       |
+| You have found the report      | You haven't found the report      | Have you found the report?      |
+| They have found the report     | They haven't found the report     | Have they found the report?     |
+
+**Formazione affermativa: Soggetto + Verbo To Have + Past Participle**
+
+**Formazione negativa: Soggetto + Have/Has + Not + Past Participle**
+
+**Formazione interrogativa: Have/Has + Soggetto + Past Participle**
+
+Verbo al Past Participle:
+
+* Regolare: aggiungo *-ed* al verbo;
+* Irregolare: sfrutto la terza colonna della tabella dei verbi irregolari.
+
+Note formazione regolare:
+
+* La *e* di *-ed* è silente, tranne se il verbo finisce con *t* o *d* (Es. started).
+* I verbi che terminano per *y* preceduta da una consonante sostituiscono la *y* con la *i* e poi aggiungo *ed*;
+* I verbi che terminano per *y* preceduta da una vocale aggiungono semplicemente la *ed*;
+
+Note:
+
+* Per formare la negativa o l'interrogativa sfruttiamo il verbo *To Have* come ausiliare, essendo un ausiliare perde completamente il suo significo (avere) originale. Infine nella forma negativa si sfrutta comunque il verbo alla forma Past Participle.
+
+
+
 ## Past Perfect
 
 Il Past Perfect si usa per indicare:
@@ -1029,11 +1160,11 @@ Il Past Perfect si usa per indicare:
 | You had worked hard       | You hand't worked hard       | Had you worked hard?       |
 | They had worked hard      | They hand't worked hard      | Did they worked hard?      |
 
-**Formazione affermativa: Soggetto + Verbo To Have al Past Simple + Past Participle**
+**Formazione affermativa: Soggetto + Verbo To Have al Past Simple + Verbo al Past Participle**
 
-**Formazione negativa: Soggetto + Did not + Verbo alla forma base**
+**Formazione negativa: Soggetto + Verbo To Have al Past Simple + NOT + Verbo al Past Participle**
 
-**Formazione interrogativa: Verbo To Have al Past Simple + Soggetto + Past Participle**
+**Formazione interrogativa: Verbo To Have al Past Simple + Soggetto + Verbo al Past Participle**
 
 * Verbo al Past Participle:
 
@@ -1106,6 +1237,23 @@ Il Present Continuous che ho già trattato in precedenza può essere sfruttato a
 
 
 
+## ING Form
+
+La ING Form si usa per:
+
+* Quando il verbo è il soggetto della frase (Es. Eating a lot of fruit is important.);
+* Dopo verbi come:
+  * Like - Don't Like;
+  * Love;
+  * Enjoy;
+  * Prefer;
+  * Hate;
+  * Can't stand;
+  * Mind.
+* Dopo una preposizione (Es. I'm very good at playing tennis)
+
+
+
 ## Verbi Modali
 
 I Verbi Modali esprimono Potere, Volere e Dovere ed hanno le seguenti caratteristiche:
@@ -1144,4 +1292,18 @@ Come in precedenza indicato i verbi modali non hanno tutte le forme verbali, per
 | Present Perfect | I have been able to go  | I have had to go    |
 | Future          | I will be able to go    | I will have to go   |
 | Gerundio        | I like being able to go | I hate having to go |
+
+
+
+
+
+
+
+## IF Clause
+
+
+
+
+
+## Reported Speech
 
