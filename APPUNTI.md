@@ -1031,12 +1031,13 @@ Note:
 
 
 
-## Present Continuos
+## Present Continuous
 
-Il Present Continuos si usa per:
+Il Present Continuous si usa per:
 
-* Per azioni che si stanno svolgendo nel momento in cui si parla (Es. Sto andando al lavoro);
-* Per azioni che si svolgono in un periodo attuale differentemente dal normale (Es. In questo periodo sto lavorando, ma solitamente studio).
+* Azioni che si stanno svolgendo nel momento in cui si parla (Es. Sto andando al lavoro);
+* Azioni che si svolgono in un periodo attuale differentemente dal normale (Es. In questo periodo sto lavorando, ma solitamente studio);
+* Azioni che accadono adesso, ma non necessariamente al momento. 
 
 | Affermative          | Negative                | Interrogative         |
 | -------------------- | ----------------------- | --------------------- |
@@ -1307,13 +1308,50 @@ Come in precedenza indicato i verbi modali non hanno tutte le forme verbali, per
 
 
 
+## Passive
+
+Usiamo il passivo quando vogliamo concentrarci su un'azione o l'oggetto dell'azione, piuttosto che la persona che sta facendo l'azione. L'oggetto della frase attiva diventa il soggetto della frase passiva. O più banalmente il passivo è quando il soggetto subisce una azione (Es. Il libro è scritto da / L'esame è sostenuto dallo...) 
+
+**Formazione: Soggetto + Verbo To Bo coniugato secondo la frase + Past Participle + [by ...]**
+
+L'agente [by ...] è facoltativo e dipende dal contesto della frase serve ad indicare chi ha compiuto l'azione.
+
+| Forma Verbale      | Esempio Passivo                      | Esempio Attivo      |
+| ------------------ | ------------------------------------ | ------------------- |
+| Present Simple     | The book is written by Oliver        |                     |
+| Present Continuous | The book is being written by Oliver  |                     |
+| Past Simple        | The book was written by Oliver       | Oliver wrote a book |
+| Present Perfect    | The book has been written by Oliver  |                     |
+| Past Continuous    | The book was being written by Oliver |                     |
+| Past Perfect       | The book had been written by Oliver  |                     |
+| Future: Will       | The bool will be written             |                     |
+| Future:            |                                      |                     |
 
 
 
+## IF Clauses
 
-## IF Clause
+I periodi ipotetici (if clauses) in inglese sono di tre tipi Realtà, Possibilità e Impossibilità la frase è composta sempre da una *If-clause* e da una *Main Clause*.
 
 
+
+|                 | Formazione                                                   | Esempio                                                      |
+| --------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 0 Conditional   | If-clause (If/When + present simple), Main Clause (present simple) | If you drive very fast, it is more difficult to stop         |
+| 1th Conditional | If-clause (If/When + present simple), Main Clause (will)     | If you drive very fast, it will be more difficult to stop    |
+| 2nd Conditional | If-clause (If/When + past simple), Main Clause (would/wouldn't + infinitive)<br /><br />Main clause (would/wouldn't + infinite), If-clause (if + past simple) | If there was a hurricane, it would destroy the village.<br /><br />People would move out if the sea levels rose. |
+
+Utilizzi:
+
+* Zero Conditional: per parlare di fatti o cose che sono generalmente veri;
+* First Conditional: per parlare di una possibile situazione futura;
+* Second Conditional: per parlare di situazioni irreali o immaginarie.
+
+Uso di If/When:
+
+* Zero Conditional: Non vi è alcuna differenza;
+* First Conditional: Usiamo when + present simple per parlare di una certa azione futura (Es. When Jack arrives, I'll ask him to help us).
+* Second Conditional: Non vi è alcuna differenza.
 
 
 
