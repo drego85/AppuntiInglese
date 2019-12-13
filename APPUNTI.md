@@ -1041,7 +1041,7 @@ Il Present Continuous si usa per:
 
 | Affermative          | Negative                | Interrogative         |
 | -------------------- | ----------------------- | --------------------- |
-| I'm playing          | I'm not playing         | I'm playing?          |
+| I'm playing          | I'm not playing         | Am I playing?         |
 | You are playing      | You aren't playing      | Are you playing?      |
 | He/She/It is playing | He/She/It isn't playing | Is he/she/iy playing? |
 | We are playing       | We aren't playing       | Are we playing?       |
@@ -1056,7 +1056,7 @@ Il Present Continuous si usa per:
 
 Note:
 
-* Per formare la negativa o interrogativa sfruttiamo il verbo To Be come ausiliare, essendo un ausiliare perde completamente il suo significo (essere) originale. 
+* Sfruttiamo il verbo *To Be* al presente come ausiliare, essendo un ausiliare perde completamente il suo significo (essere) originale. 
 
 * I verbi che hanno una sillaba e finiscono con una consonante, raddoppiano la consonante e aggiungono *-ing* (Es. cut > cutting );
 
@@ -1091,13 +1091,13 @@ Il Past Continuous si usa per indicare:
 
 **Formazione affermativa: Soggetto + Verbo To Be al Past Simple + Gerundio (-ing form)**
 
-**Formazione negativa: Verbo To Be al Past Simple + Soggetto + Gerundio (-ing form)**
+**Formazione negativa: Was/Were + Soggetto + Gerundio (-ing form)**
 
-**Formazione interrogativa: Soggetto + Verbo To Be al Past Simple + Gerundio (-ing form)**
+**Formazione interrogativa: Soggetto + Was/Were + Gerundio (-ing form)**
 
 Note:
 
-* Per formare la negativa o l'interrogativa sfruttiamo il verbo To Be al past simple come ausiliare, essendo un ausiliare perde completamente il suo significo  (essere) originale.
+* Sfruttiamo il verbo *To Be* al past simple come ausiliare, essendo un ausiliare perde completamente il suo significo  (essere) originale.
 * I verbi che hanno una sillaba e finiscono con una consonante, raddoppiano la consonante e aggiungono *-ing* (Es. cut > cutting );
 * I verbi che terminano con una *-e* silente, la *-e* viene eliminata (Es. write > writing);
 * I verbi che terminano in *-y* aggiungono sempre *-ing* senza distinzioni come nel Presente Simple;
@@ -1154,7 +1154,8 @@ Note formazione regolare:
 
 Note:
 
-* Per formare la negativa o l'interrogativa sfruttiamo il verbo *To Have* come ausiliare, essendo un ausiliare perde completamente il suo significo (avere) originale. Infine nella forma negativa si sfrutta comunque il verbo alla forma Past Participle.
+* Sfruttiamo il verbo *To Have* al presente come ausiliare, essendo un ausiliare perde completamente il suo significo (avere) originale.
+* Nella forma negativa o interrogativa si sfrutta comunque il verbo alla forma Past Participle.
 
 
 
@@ -1171,7 +1172,7 @@ Il Past Perfect si usa per indicare:
 | He/She/It had worked hard | He/She/It hand't worked hard | Had he/she/it worked hard? |
 | We had worked hard        | We hand't worked hard        | Had we worked hard?        |
 | You had worked hard       | You hand't worked hard       | Had you worked hard?       |
-| They had worked hard      | They hand't worked hard      | Did they worked hard?      |
+| They had worked hard      | They hand't worked hard      | Had they worked hard?      |
 
 **Formazione affermativa: Soggetto + Verbo To Have al Past Simple + Verbo al Past Participle**
 
@@ -1193,7 +1194,7 @@ Note formazione regolare:
 
 Note:
 
-* Per formare la negativa o l'interrogativa sfruttiamo il verbo To Have al Past Simple come ausiliare, essendo un ausiliare perde completamente il suo significo (avere) originale.
+* Sfruttiamo il verbo *To Have* al Past Simple come ausiliare, essendo un ausiliare perde completamente il suo significo (avere) originale.
 
   
 
